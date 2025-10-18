@@ -1,0 +1,2344 @@
+<!DOCTYPE HTML>
+<html lang="ja" xml:lang="ja" dir="ltr" xmlns:og="http://ogp.me/ns#" xmlns:mixi="http://mixi-platform.com/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" class="ui-mobile"><head><base href="https://t.livepocket.jp/myticket/publish?ticket_id=34932925&amp;event_id=499482">
+        <meta charset="utf-8">
+    <meta name="copyright" content="Copyright © LivePocket All Rights Reserved.">
+
+        <meta name="description" content="LivePocket-Ticket-（ライブポケットチケット）は、エンターテインメントイベントに特化したチケットの販売とイベントの管理が簡単にできるソーシャルチケット販売プラットフォームです">
+    
+        <meta name="keywords" content="LivePocket-Ticket-,ライブポケット,チケット販売,ソーシャル,イベント">
+    
+    <meta name="viewport" content="width=device-width,user-scalable=no,maximum-scale=1">
+
+    
+    
+    
+    <!-- OG Tag -->
+    
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><!--IEで閲覧している場合、Google Chrome Frameで表示-->
+    <meta name="google-site-verification" content=""><!--Google ウェブマスターツール-->
+
+    <!-- IE8以下にスタイルを読みこませる。 -->
+    <!--[if lte IE 8]>
+        <link rel="stylesheet" type="text/css" href="https://t.livepocket.jp/pc_css_v2/pc/common.css" />
+    <link rel="stylesheet" type="text/css" href="https://t.livepocket.jp/pc_css_v2/pc/common_add.css" />
+        <script src="https://t.livepocket.jp/pc_js_v2/html5shiv.js"></script>
+    <script src="https://t.livepocket.jp/pc_js_v2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Cascading Style Sheets -->
+    <!-- メディアクエリの設定でウインドウサイズに応じて読み込むスタイルを切り替える。 -->
+
+            <link rel="stylesheet" type="text/css" href="https://t.livepocket.jp/pc_css_v2/default.css" media="screen,print">
+    <link rel="stylesheet" type="text/css" href="https://t.livepocket.jp/pc_css_v2/pc/common.css" media="print">
+    <link rel="stylesheet" type="text/css" href="https://t.livepocket.jp/pc_css_v2/pc/common_add.css" media="print">
+    <link rel="stylesheet" type="text/css" href="https://t.livepocket.jp/pc_css_v2/pc/print.css" media="print">
+    <link rel="stylesheet" type="text/css" href="https://t.livepocket.jp/pc_css_v2/pc/print_add.css" media="print">
+    <link rel="stylesheet" type="text/css" href="https://t.livepocket.jp/pc_css_v2/pc/ticket.css" media="print">
+    <link rel="stylesheet" type="text/css" href="https://t.livepocket.jp/pc_css_v2/pc/ticket_add.css" media="print">
+    <link rel="stylesheet" type="text/css" href="https://t.livepocket.jp/pc_css_v2/pc/footer.css" media="print">
+    <link rel="stylesheet" type="text/css" href="https://t.livepocket.jp/pc_css_v3/pc/global_top.css" media="print">
+      <!-- SPの場合はSP用のCSSのみ呼び出し -->
+                      <!--[if lte IE 8]>
+        <link rel="stylesheet" type="text/css" media="screen" href="https://t.livepocket.jp/pc_css_v2/pc/common.css" />
+        <link rel="stylesheet" type="text/css" media="screen" href="https://t.livepocket.jp/pc_css_v2/pc/common_add.css" />
+        <link rel="stylesheet" type="text/css" media="screen" href="https://t.livepocket.jp/pc_css_v2/pc/ticket.css" />
+        <link rel="stylesheet" type="text/css" media="screen" href="https://t.livepocket.jp/pc_css_v2/pc/ticket_add.css" />
+        <![endif]-->
+        <!-- SP用CSS -->
+        <link rel="stylesheet" type="text/css" media="screen and (max-width: 640px)" href="https://t.livepocket.jp/pc_css_v2/sp/common.css">
+        <link rel="stylesheet" type="text/css" media="screen and (max-width: 640px)" href="https://t.livepocket.jp/pc_css_v2/sp/common_add.css">
+        <link rel="stylesheet" type="text/css" media="screen and (max-width: 640px)" href="https://t.livepocket.jp/pc_css_v2/sp/ticket.css">
+        <link rel="stylesheet" type="text/css" media="screen and (max-width: 640px)" href="https://t.livepocket.jp/pc_css_v2/sp/ticket_add.css">
+        <link rel="stylesheet" type="text/css" media="screen and (max-width: 640px)" href="https://t.livepocket.jp/pc_css_v2/sp/partial/header_information.css">
+        <link rel="stylesheet" type="text/css" media="screen and (max-width: 640px)" href="https://t.livepocket.jp/pc_css_v2/sp/footer.css">
+        <link rel="stylesheet" type="text/css" media="screen and (max-width: 640px)" href="https://t.livepocket.jp/pc_css_v3/sp/global_top.css">
+        <!-- PC用CSS -->
+        <link rel="stylesheet" type="text/css" media="screen and (min-width: 641px)" href="https://t.livepocket.jp/pc_css_v2/pc/common.css">
+        <link rel="stylesheet" type="text/css" media="screen and (min-width: 641px)" href="https://t.livepocket.jp/pc_css_v2/pc/common_add.css">
+        <link rel="stylesheet" type="text/css" media="screen and (min-width: 641px)" href="https://t.livepocket.jp/pc_css_v2/pc/ticket.css">
+        <link rel="stylesheet" type="text/css" media="screen and (min-width: 641px)" href="https://t.livepocket.jp/pc_css_v2/pc/ticket_add.css">
+        <link rel="stylesheet" type="text/css" media="screen and (min-width: 641px)" href="https://t.livepocket.jp/pc_css_v2/pc/footer.css">
+        <link rel="stylesheet" type="text/css" media="screen and (min-width: 641px)" href="https://t.livepocket.jp/pc_css_v3/pc/global_top.css">
+                  
+    <link rel="stylesheet" type="text/css" href="https://t.livepocket.jp/pc_css_v2/add_class.css">
+    <link rel="stylesheet" type="text/css" href="https://t.livepocket.jp//css/goto_event_base.css">
+
+    <!--
+    <link rel="stylesheet" href="https://t.livepocket.jp/css/jquery.mobile.structure-1.3.0.css" />
+    -->
+    <link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon.png">
+
+    <!-- TODO: Check request from Bellmare, if not, show data-wovnio.-->
+        <script type="text/javascript" async="" src="https://al-s.dc-tag.jp/dcam.min.js"></script><script type="text/javascript" async="" src="https://cdn.kitchen.juicer.cc/scripts/juicer-treasure/2.3.0/juicertreasure.min.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-880638290&amp;cx=c&amp;gtm=4e5a81"></script><script async="" src="//s.yjtag.jp/tag.js#site=QdCbsCc"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://s.yimg.jp/images/listing/tool/cv/ytag.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-35NGQ0CSCS&amp;cx=c&amp;gtm=4e5a81"></script><script async="" src="//s.yjtag.jp/tag.js#site=3gYMH3k"></script><script src="https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202510090101/show_ads_impl_fy2021.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P9D7D7"></script><script src="//j.wovn.io/1" data-wovnio="key=P4kwS" async=""></script>
+    
+    <script type="text/javascript">
+        var Lpt = {"isLogin":true,"currentUser":{"id":"1106243"},"siteUrl":"https:\/\/t.livepocket.jp\/"}
+        Lpt.getUrl = function(route, ssl) {
+            if (typeof ssl === 'undefined' || ssl === null) {
+                ssl = location.procotol === 'https:';
+            }
+
+            var url = Lpt.siteUrl + route;
+
+            if (ssl) {
+                url = url.replace(/https?:\/\//, "https://");
+            } else {
+                url = url.replace(/https?:\/\//, "http://");
+            }
+
+            return url;
+        };
+
+        var base_url = 'https://t.livepocket.jp/';
+        var base_ssl_url = 'https://t.livepocket.jp/';
+
+        var load_count = 0;
+            </script>
+
+
+    <!-- Javascript -->
+    <script type="text/javascript" src="//www.google.com/jsapi"></script>
+    <script type="text/javascript" src="https://t.livepocket.jp/pc_js_v2/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="https://t.livepocket.jp/javascripts/jquery.tmpl.js"></script>
+    <script type="text/javascript" src="https://t.livepocket.jp/javascripts/jquery.blockUI.js"></script>
+    <script type="text/javascript" src="https://t.livepocket.jp/pc_js_v2/jquery.skOuterClick.js"></script>
+    <script type="text/javascript" src="https://t.livepocket.jp/pc_js_v2/jquery.bxslider.min.js"></script>
+    <script type="text/javascript" src="https://t.livepocket.jp/javascripts/common.js"></script>
+    <script type="text/javascript" src="https://t.livepocket.jp/javascripts/sp-common.js"></script>
+    <script type="text/javascript" src="https://t.livepocket.jp/pc_js_v2/common.js"></script>
+    <script type="text/javascript" src="https://t.livepocket.jp/javascripts/cookie-common.js"></script>
+    <script type="text/javascript" src="https://t.livepocket.jp/javascripts/common-count.js"></script>
+    <!--[if lt IE 10]>
+    <script src="https://t.livepocket.jp/pc_js/ah-placeholder plugin.js"></script>
+    <script src="https://t.livepocket.jp/pc_js/ie.js"></script>
+    <![endif]-->
+        <script type="text/javascript" src="https://t.livepocket.jp/javascripts/jquery.mobile-1.3.0.min.js"></script>
+        <script type="text/javascript" src="https://t.livepocket.jp/javascripts/api.js"></script>
+    <script type="text/javascript" src="https://t.livepocket.jp/javascripts/exdate.js"></script>
+    <script type="text/javascript" src="https://t.livepocket.jp/javascripts/util.js"></script>
+    <script type="text/javascript" src="https://t.livepocket.jp/shared_js/util.js"></script>
+
+        <script id="eventListTemplate" type="text/x-jquery-tmpl">
+    <li><a rel="external" href="${base_url}event?id=${id}">
+        <figure>
+            <div class="event-img"><img src="${event_pic_url}?mode=fix&height=174&width=180" alt="" width="90" height="87" /></div>
+            <figcaption class="align-top">
+                <div class="event-text">
+                    <strong class="ticket-title flexible">${mbellipsis(name, 40)}</strong>
+                    {{if artist}}
+                    <p class="artist">${mbellipsis(artist, 25)}</p>
+                    {{/if}}
+                    <time datetime="2012-12-01T19:00:00+09:00">${formatDate(date_info.starttime)}&#xFF5E;</time>
+                    <p>${mbellipsis(loc_name, 25)}</p>
+                </div>
+            </figcaption>
+        </figure>
+    </a></li>
+</script>
+
+<script id="pastEventListTemplate" type="text/x-jquery-tmpl">
+    <li><a rel="external" href="${base_url}myticket/detail?id=${id}">
+        <figure>
+            <div class="event-img"><img src="${event_pic_url}?mode=fix&height=174&width=180" alt="" width="90" height="87" /></div>
+            <figcaption class="align-top">
+                <div class="event-text">
+                    <strong class="ticket-title flexible">${mbellipsis(name, 40)}</strong>
+                    {{if artist}}
+                    <p class="artist">${mbellipsis(artist, 25)}</p>
+                    {{/if}}
+                    <time datetime="2012-12-01T19:00:00+09:00">${formatDate(date_info.starttime)}&#xFF5E;</time>
+                    <p>${mbellipsis(loc_name, 25)}</p>
+                </div>
+            </figcaption>
+        </figure>
+    </a></li>
+</script>
+
+<!-- common event list template -->
+<script id="commonEventListTemplate" type="text/x-jquery-tmpl">
+    <li>
+    {{if date_info.showtype && date_info.showtype == 'detail'}}
+    <a style="cursor: default;">
+    {{else}}
+    <a rel="external" href="${base_url}myticket/detail?id=${id}">
+    {{/if}}
+        <figure>
+            <div class="event-img"><img src="${event_pic_url}?mode=fix&height=174&width=180" alt="" width="90" height="87" /></div>
+            <figcaption {{if date_info.showtype && date_info.showtype == 'detail'}} class="detail align-top" {{else}} class="align-top" {{/if}}>
+                <div class="event-text">
+                    <strong class="ticket-title flexible">${mbellipsis(name, 40)}</strong>
+                    {{if artist}}
+                    <p class="artist">${mbellipsis(artist, 25)}</p>
+                    {{/if}}
+                    <time datetime="2012-12-01T19:00:00+09:00">${formatDate(date_info.starttime)}&#xFF5E;</time>
+                    <p>${mbellipsis(loc_name, 25)}</p>
+                </div>
+            </figcaption>
+        </figure>
+    </a></li>
+</script>
+
+<!-- common tour list template -->
+<script id="commonTourListTemplate" type="text/x-jquery-tmpl">
+    <li><a rel="external" href="${base_url}tour?id=${id}">
+        <figure>
+            <div class="event-img"><img src="${event_pic_url}?mode=fix&height=174&width=180" alt="" width="90" height="87" /></div>
+            <figcaption class="align-top">
+                <div class="event-text">
+                    <strong class="ticket-title flexible">${mbellipsis(name, 40)}</strong>
+                    {{if artist}}
+                    <p class="artist">${mbellipsis(artist, 25)}</p>
+                    {{/if}}
+                    <time datetime="2012-12-01T19:00:00+09:00">${date_info.startname} ${formatDate(date_info.starttime)}&#xFF5E;</time>
+                </div>
+            </figcaption>
+        </figure>
+    </a></li>
+</script>
+
+<!-- Lottery detail view Header template -->
+<script id="lotteryEventHeaderTemplate" type="text/x-jquery-tmpl">
+    <li><a rel="external" href="${base_url}event?id=${id}">
+        <figure>
+            <div class="event-img"><img src="${event_pic_url}?mode=fix&height=174&width=180" alt="" width="90" height="87" /></div>
+            <figcaption class="align-top">
+                <div class="event-text">
+                    <strong class="ticket-title flexible">${mbellipsis(name, 40)}</strong>
+                    {{if artist}}
+                    <p class="artist">${mbellipsis(artist, 25)}</p>
+                    {{/if}}
+                    <time datetime="2012-12-01T19:00:00+09:00">${formatDate(date_info.starttime)}&#xFF5E;</time>
+                    <p>${mbellipsis(loc_name, 25)}</p>
+                </div>
+            </figcaption>
+        </figure>
+    </a></li>
+</script>
+
+<script id="pickupEventListTemplate" type="text/x-jquery-tmpl">
+ {{each $item.data}}
+    <ul class="pickup-event-list clearfix slide">
+    {{each events}}
+        {{if checknew($value)}}
+            <li class="item new">
+        {{else}}
+            <li class="item">
+        {{/if}}
+            <a href="${base_url}{{if type == 'tour' || type === 1}}tour{{else}}event{{/if}}?id=${id}" rel="external" data-role="none">
+            <figure>
+                <img src="${event_pic_url}?mode=fix&height=290&width=290" width="290" height="290" alt="画像の説明" />
+                <figcaption>
+                    <h2 class="title">${mbellipsis(title, 28)}</h2>
+                    <ul>
+                        {{if artistname}}
+                        <li><span class="icon-min human"></span>${mbellipsis(artistname, 37)}</li>
+                        {{/if}}
+                        <li><span class="icon-min clock"></span>${date_info.starttime}&#xFF5E;</li>
+                        <li><span class="icon-min pin"></span>
+                        {{if loc_name}}
+                            <li><span class="icon-min pin"></span>${mbellipsis(loc_name, 37)}</li>
+                        {{else}}
+                            {{if type == 'event'}}
+                                <li><span class="icon-min pin"></span>-</li>
+                            {{/if}}
+                        {{/if}}
+                    </ul>
+                </figcaption>
+            </figure>
+            <p class="more"><span class="hide-sp">詳しく</span></p>
+            </a>
+        </li>
+    {{/each}}
+    </ul>
+{{/each}}
+</script>
+
+
+<!--  template -->
+<script id="searchResultListTemplate" type="text/x-jquery-tmpl">
+<li><a rel="external" href="${base_url}{{if type == 1}}tour?id={{else}}event?id={{/if}}${id}">
+        <figure>
+            <div class="event-img"><img src="${event_pic_url}?mode=fix&height=174&width=180" alt="" width="90" height="87" /></div>
+            <figcaption class="align-top">
+                <div class="event-text">
+                    <strong class="ticket-title flexible">${mbellipsis(name, 40)}</strong>
+                    {{if artistname}}
+                    <p class="artist">${mbellipsis(artistname, 25)}</p>
+                    {{/if}}
+                    <time class="_js_pie" datetime="2012-12-01T19:00:00+09:00">
+                        ${date_info.starttime}〜
+                    </time>
+                    {{if loc_name}}
+                        <p>${mbellipsis(loc_name, 25)}</p>
+                    {{/if}}
+                </div>
+            </figcaption>
+        </figure>
+</a></li>
+</script>
+
+<!-- 検索結果リスト template -->
+<script id="searchPromoterResultListTemplate" type="text/x-jquery-tmpl">
+<li class="list-item list-bordered"><a class="list-inner" rel="external" href="${base_url}event?id=${id}">
+        <figure class="list-arrow green-right">
+            <div class="thumb-outer">
+                <img class="thumb" src="${event_pic_url}?mode=fix&height=172&width=172" alt="" width="86" height="86" />
+            </div>
+            <figcaption class="right-content">
+                <div class="inner">
+                    <div class="label-status {{if sales_status == 1}}sale{{/if}}{{if sales_status == 2}}before-sale{{/if}}{{if sales_status == 3}}finished-sale{{/if}}{{if sales_status == 10}}end-event{{/if}}{{if sales_status == 11}}abort-event{{/if}}">
+                    {{if sales_status == 1}}販売中{{/if}}
+                    {{if sales_status == 2}}販売前{{/if}}
+                    {{if sales_status == 3}}販売終了{{/if}}
+                    {{if sales_status == 10}}イベント終了{{/if}}
+                    {{if sales_status == 11}}イベント中止{{/if}}
+                    </div>
+                    <ul class="list-info">
+                        <li class="list-info-item">${mbellipsis(name, 18)}</li>
+                        {{if artistname}}
+                        <li class="list-info-item">${mbellipsis(artistname, 18)}</li>
+                        {{/if}}
+                        <li class="list-info-item">
+                            <time datetime="2012-12-01T19:00:00+09:00">${date_info.starttime}</time>
+                        </li>
+                        {{if loc_name}}
+                        <li class="list-info-item">${mbellipsis(loc_name, 18)}</li>
+                        {{/if}}
+                    </ul>
+                </div>
+            </figcaption>
+        </figure>
+</a></li>
+</script>
+
+<!-- promoter profile template -->
+<script id="promoterProfileTemplate" type="text/x-jquery-tmpl">
+<div class="clearfix">
+    <img class="name_column left-content" src="/pc_images/icon_info_promoter.png" />
+    <h1 class="name_column right-content">${p_display_name}</h1>
+</div>
+<div>{{html p_description}}</div>
+<div class='sub_info clearfix'>
+    <dl>
+        {{if p_inquiry_mail}}
+            <dt style='margin-right: 0px;'><img src="/images/icon_mail.png" width="20" height="20" /></dt><dd style='padding-top: 3px;'><a href="mailto:${p_inquiry_mail}">${p_inquiry_mail}</a></dd>
+        {{/if}}
+        {{if p_inquiry_phone}}
+            <dt style='margin-right: 0px;'><img src="/images/icon_telephone.png" width="20" height="20" /></dt><dd style='padding-top: 3px;'><a href="tel:${p_inquiry_phone}">${p_inquiry_phone}</a></dd>
+        {{/if}}
+        {{if p_official_url}}
+            <dt style='margin-right: 0px;'><img src="/images/icon_website_address.png" width="20" height="20" /></dt><dd><a href="${p_official_url}" target="brank">${p_official_url}</a></dd>
+        {{/if}}
+    </dl>
+</div>
+
+<ul id="sns_area" class="promoter-sns-block clearfix">
+    ${ppp}
+</ul>
+
+</script>
+
+<!-- purchased event list template -->
+<script id="purchasedEventListTemplate" type="text/x-jquery-tmpl">
+<li>
+    {{if date_info.showtype && date_info.showtype == 'detail'}}
+    <a style ="cursor:default">
+    {{else}}
+    <a rel="external" href="${base_url}myticket/detail?id=${id}">
+    {{/if}}
+        <figure>
+            <div class="event-img">
+                <img src="${event_pic_url}?mode=fix&height=174&width=180" alt="" width="90" height="87" />
+            </div>
+
+            <figcaption {{if date_info.showtype && date_info.showtype == 'detail'}} class="detail align-top" {{else}} class="align-top" {{/if}}>
+                <div class="event-text">
+                    <strong class="ticket-title flexible">${mbellipsis(name, 40)}</strong>
+                    {{if artist}}
+                    <p class="artist">${mbellipsis(artist, 25)}</p>
+                    {{/if}}
+                    <time datetime="2012-12-01T19:00:00+09:00">${formatDate(date_info.starttime)}&#xFF5E;</time>
+                    <p>${mbellipsis(loc_name, 25)}</p>
+                </div>
+            </figcaption>
+        </figure>
+    </a>
+</li>
+</script>
+
+<!-- lottery event list template -->
+<script id="lotteryEventListTemplate" type="text/x-jquery-tmpl">
+    <li><a rel="external" href="${base_url}myticket/lottery_detail?id=${id}">
+        <figure>
+            <div class="event-img">
+                <img src="${event_pic_url}?mode=fix&height=174&width=180" alt="" width="90" height="87" />
+            </div>
+
+            <figcaption class="align-top">
+                <div>
+                    <span class="lottery-status" style="display:inline-block; position:absolute; right:8.5%; margin-top:0.3em; height:1.4em; width:auto; padding-top:0.2em; text-align:center;${getLotteryStatusColors(sales_status)}">${getLotteryStatusLabel(sales_status)}</span>
+                </div>
+
+                <div class="event-text">
+                    <strong class="event-title">${mbellipsis(name, 28)}&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+
+                    {{if artist}}
+                    <p class="artist">${mbellipsis(artist, 25)}</p>
+                    {{/if}}
+
+                    <time datetime="2012-12-01T19:00:00+09:00">${formatDate(date_info.starttime)}&#xFF5E;</time>
+
+                    <p>${mbellipsis(loc_name, 25)}</p>
+                </div>
+            </figcaption>
+        </figure>
+    </a></li>
+</script>
+
+<!-- purchased ticket list template -->
+<script id="purchasedTicketListTemplate" type="text/x-jquery-tmpl">
+<li{{if status == '1' || status == '3' || status == '5'}} class="used"{{/if}}>
+    <div class="myticket-num"><span>${increment()}</span></div>
+    <div class="myticket-data">
+        <div>
+            <dl>
+                <dt>チケット名</dt><dd>${name}</dd>
+                    {{if ticket_number}}
+                    <dt>チケット番号</dt><dd>${ticket_number}</dd>
+                    {{/if}}
+                    {{if seat}}
+                    <dt>座席番号</dt><dd>${seat}</dd>
+                    {{/if}}
+                    {{if serial_number}}
+                    <dt>整理番号</dt><dd>${serial_number}</dd>
+                    {{/if}}
+            </dl>
+
+            <nav class="btn">
+            {{if is_past}}
+                {{if status == '0' || status == '1' || status == '2' || status == '3'}}
+                    <div><a style="width:91px;" href="#" data-role="button" data-theme="h" data-mini="true" onclick="downloadTicket('${purchase_id}')">ダウンロード</a></div>
+                {{/if}}
+                {{if status == '8' || status == '9' || status == '11' || status == '12'}}
+                    <div><a style="width:91px;" href="#" data-role="button" data-theme="h" data-mini="true" onclick="resumeAppli">チケットを表示</a></div>
+                {{/if}}
+            {{else}}
+                {{if status == '0'}}
+                    {{if is_pattern_auth}}
+                        <div><a style="width:91px;" href="#" data-role="button" data-theme="h" data-mini="true" onclick="downloadTicket('${purchase_id}')">ダウンロード</a></div>
+                    {{else}}
+                        <div><a style="width:91px;" href="#" data-role="button" data-theme="h" data-mini="true" onclick="start_appli('${purchase_id}')">チケットを表示</a></div>
+                    {{/if}}
+                    <div><a style="width:91px;" href="#" data-role="button" data-theme="i" data-mini="true" onclick="send_ticket('${purchase_id}');">友達に渡す</a></div>
+                {{else status == '1'}}
+                    {{if is_pattern_auth}}
+                        <div><a style="width:91px;" data-role="button" data-theme="d" data-mini="true" onclick="downloadTicket('${purchase_id}')">ダウンロード</a></div>
+                    {{else}}
+                        <div><a style="width:91px;" data-role="button" data-theme="d" data-mini="true" onclick="publish_ticket('${purchase_id}');">チケットを表示</a></div>
+                    {{/if}}
+                {{else status == '2'}}
+                    {{if is_pattern_auth}}
+                        <div><a style="width:91px;" data-role="button" data-theme="d" data-mini="true" onclick="downloadTicket('${purchase_id}')">ダウンロード</a></div>
+                    {{else}}
+                        <div><a style="width:91px;" data-role="button" data-theme="d" data-mini="true" onclick="publish_ticket('${purchase_id}');">チケットを表示</a></div>
+                    {{/if}}
+                    <div><a style="width:91px;" data-role="button" data-theme="g" data-mini="true" onclick="bring_back_ticket('${purchase_id}', '${send_ticket_user}');">購入者に返す</a></div>
+                {{else status == '3'}}
+                    {{if is_pattern_auth}}
+                        <div><a style="width:91px;" data-role="button" data-theme="d" data-mini="true" onclick="downloadTicket('${purchase_id}')">ダウンロード</a></div>
+                    {{else}}
+                        <div><a style="width:91px;" data-role="button" data-theme="d" data-mini="true" onclick="publish_ticket('${purchase_id}');">チケットを表示</a></div>
+                    {{/if}}
+                {{else status == '4'}}
+                    <div><a style="width:91px;" href="#" data-role="button" data-theme="g" data-mini="true" onclick="collect_ticket('${html_escape(receive_ticket_user)}', '${purchase_id}');">チケットを回収</a></div>
+                {{else status == '8'}}
+                    {{if is_pattern_auth}}
+                        <div><a style="width:91px;" href="#" data-role="button" data-theme="h" data-mini="true" onclick="resumeAppli();">チケットを表示</a></div>
+                        <div><a style="width:91px;" href="#" data-role="button" data-theme="i" data-mini="true" onclick="resumeAppli('start','${purchase_id}');">友達に渡す</a></div>
+                    {{else}}
+                        <div><a style="width:91px;" data-role="button" data-theme="d" data-mini="true" onclick="publish_ticket('${purchase_id}');">チケットを表示</a></div>
+                    {{/if}}
+                {{else status == '9'}}
+                    {{if is_pattern_auth}}
+                        <div><a style="width:91px;" href="#" data-role="button" data-theme="h" data-mini="true" onclick="resumeAppli();">チケットを表示</a></div>
+                    {{else}}
+                        <div><a style="width:91px;" data-role="button" data-theme="d" data-mini="true" onclick="publish_ticket('${purchase_id}');">チケットを表示</a></div>
+                    {{/if}}
+                {{else status == '10'}}
+                        <div><a style="width:91px;" href="#" data-role="button" data-theme="g" data-mini="true" onclick="cancel_ticket_sending('${purchase_id}');">受渡を中止</a></div>
+                        <div><a style="width:91px;" href="#" data-role="button" data-theme="i" data-mini="true" onclick="send_ticket('${purchase_id}');">再送する</a></div>
+                {{else status == '11'}}
+                    {{if is_pattern_auth}}
+                        <div><a style="width:91px;" href="#" data-role="button" data-theme="h" data-mini="true" onclick="resumeAppli();">チケットを表示</a></div>
+                    {{else}}
+                        <div><a style="width:91px;" data-role="button" data-theme="d" data-mini="true" onclick="publish_ticket('${purchase_id}');">チケットを表示</a></div>
+                    {{/if}}
+                {{else status == '12'}}
+                    {{if is_pattern_auth}}
+                        <div><a style="width:91px;" href="#" data-role="button" data-theme="h" data-mini="true" onclick="resumeAppli();">チケットを表示</a></div>
+                    {{else}}
+                        <div><a style="width:91px;" data-role="button" data-theme="d" data-mini="true" onclick="publish_ticket('${purchase_id}');">チケットを表示</a></div>
+                    {{/if}}
+                {{/if}}
+
+            {{/if}}
+            </div>
+            </nav>
+            <div class="myticket-state color${status}">
+            <span class="text-break">
+            {{if status == '0'}}未使用{{/if}}
+            {{if status == '1' || status == '3'}}使用済み{{/if}}
+            {{if status == '2'}}受取り済み From:<span wovn-ignore>${send_ticket_user}</span>{{/if}}
+            {{if status == '4'}}お渡し済み To:<span wovn-ignore>${receive_ticket_user}</span>{{/if}}
+            {{if status == '5'}}${receive_ticket_user}様が使用済み{{/if}}
+            {{if status == '6'}}イベントは終了しました{{/if}}
+            {{if status == '7'}}このチケットはキャンセルされました{{/if}}
+            {{if status == '8'}}未使用（アプリに発券済み）{{/if}}
+            {{if status == '9'}}アプリで使用済み{{/if}}
+            {{if status == '10'}}受渡中{{/if}}
+            {{if status == '11'}}${send_ticket_user}様から受け取り(アプリに発券済み){{/if}}
+            {{if status == '12'}}${send_ticket_user}様から受け取り(アプリで使用済み){{/if}}
+            {{if status == '13'}}${receive_ticket_user}様へお渡し済み(アプリに発券済み){{/if}}
+            {{if status == '14'}}${receive_ticket_user}様が使用済み(アプリで使用済み){{/if}}
+            {{if status == '15'}}イベントが中止になりました{{/if}}
+            </span>
+            </div>
+        </div>
+    </div>
+</li>
+</script>
+
+<script id="purchasedEventTemplate" type="x-jquert-tmpl">
+        <li>
+            <div>
+                <figure>
+                    <div class="event-img"><img src="${event_pic_url}?mode=fix&height=174&width=180" alt="" width="90" height="87"></div>
+                        <figcaption>
+                            <div class="event-text">
+                                <strong class="event-title">${name}</strong>
+                                <p class="artist">${mbellipsis(artist, 37)}</p>
+                                <time datetime="${date_info.starttime}">${formatDate(date_info.starttime)} ～</time>
+                                <p>${loc_name}</p>
+                            </div>
+                        </figcaption>
+                </figure>
+            </div>
+        </li>
+</script>
+
+
+<script id="lotteryTicketListTemplate" type="text/x-jquery-tmpl">
+    <div class="lottery-detail-info ticket-info_${increment()}">
+        <table class="common-info">
+            <caption class="ticket-name text-break">${name}</caption>
+
+            <tr>
+                <th class="item-name">結果発表<br />予定日</th>
+                {{if lottery_announce}}
+                <td class="text-break item-detail short text-color-red">${lottery_announce}</td>
+                {{else}}
+                <td class="item-detail short text-color-red">--</td>
+                {{/if}}
+                <td class="status-label">
+                    <span class='lottery-status' style='${getLotteryStatusColors(sales_status)}'>${status}</span>
+                </td>
+            </tr>
+
+            <tr>
+                <th class="item-name">受付日</th>
+                <td colspan="2" class="item-detail">${formatDate(order_date)}</td>
+            </tr>
+
+            <tr>
+                <th class="item-name">受付番号</th>
+                <td colspan="2" class="item-detail">${order_id}</td>
+            </tr>
+
+            {{if !is_free}}
+            <tr>
+                <th class="item-name">支払方法</th>
+                <td colspan="2" class="item-detail">
+                    {{if   payment_type == 'credit'}}クレジット
+                    {{else payment_type == 'cvs'}}コンビニ
+                    {{else payment_type == 'yahoowallet'}}Yahoo!ウォレット
+                    {{else}}キャリア
+                    {{/if}}
+                </td>
+            </tr>
+            {{/if}}
+        </table>
+
+        <table class="tickets-data"></table>
+
+        {{if cancel_url}}
+        <p class="cancel-message">${cancel_time_limit_message}</p>
+        <a data-mini="true" href='#' data-theme="e" onclick='return confirmCancelLotteryTicket("${name}","${cancel_url}&event_id=${event_id}" )' data-role="button" data-icon="arrow-r" data-iconpos="right">申込み取消</a>
+        {{/if}}
+    </div>
+</script>
+
+
+<!-- tour goods template -->
+<script id="tourGoodsListTemplate" type="text/x-jquery-tmpl">
+<li><a rel="external" href="${item_url}" target="_blank">
+  <div class="goods">
+    <img class="goods-img" src="${item_pic_url}?mode=fix&height=174&width=180" width="90" height="87" />
+    <div class="goods-info">
+      <div class="goods-text">
+        <strong>${name}</strong>
+        <p>${description}</p>
+      </div>
+    </div>
+  </div>
+</a></li>
+</script>
+
+<!-- tour, event slide show image template -->
+<script id="slideShowImageTemplate" type="text/x-jquery-tmpl">
+<div class="item" style="min-height : 100px;">
+    <div class="ibox">
+        <!-- 単純な配列を渡した時はこれで値が取れるらしい... -->
+        <img src="${}" />
+        <p class="caption"></p>
+    </div>
+</div>
+</script>
+
+
+<script id="eventTicketsListTemplate" type="text/x-jquery-tmpl">
+<li>
+    <div class="main-txt">
+        <strong>${name}</strong>
+        <div style="padding-bottom:0.6em;">
+            <div class="state"><div class="state-tag state-tag-${sales_status}"><span>${getTicketStatusLabel(sales_status)}</span></div></div>
+
+            <div class="price">¥${addFigure(price)}</div>
+            {{if display_remain && sales_status != 3}}
+            <div class="number"><span>残り${ticket_stock}枚</span></div>
+            {{/if}}
+        </div>
+        <div style="padding-bottom:0.5em; font-size:11px; text-indent:-0.5em;">【{{if type=='normal'}}販売{{else}}受付{{/if}}期間】&nbsp;〜${formatDateTime(endtime)}</div>
+    </div>
+    <div class="btn">
+        <fieldset>
+            <select id="ticket-${id}" data-inline="true" data-theme="a" data-mini="true" class="event_ticket_count ticket_type_${type} {{if free}}free_ticket{{else}}surcharge_ticket{{/if}} {{if publish_type == 'facebook'}}facebook_ticket{{/if}} {{if publish_type == 'twitter'}}twitter_ticket{{/if}}" name="ticket_id_${id}" {{if ticket_stock < 1 || sales_status == "2" || sales_status == "3" || sales_status == "5" || sold_out}}disabled="disabled"{{/if}}>
+                <option value="" selected>枚数</option>
+                {{each getTicketLimitJson(limit_min, limit_max, ticket_stock) }}
+                <option value="${$value}">${$value}枚</option>
+                {{/each}}
+            </select>
+        </fieldset>
+    </div>
+</li>
+</script>
+
+<script id="eventTicketsListExclusionTemplate" type="text/x-jquery-tmpl">
+
+
+    <div class="group_name text-break">${group_name}</div>
+
+    {{if remarks}}
+        <div class="remarks">{{html remarks}}</div>
+    {{/if}}
+
+    {{if group_publish_type == 'facebook'}}
+        <h2 class="ticket-limited-fb"><span>Facebook</span><span>限定チケット</span></h2>
+        <p class="ticket-limited-fb-label">Facebookページにいいね！でチケット購入</p>
+        <ul id="fb_ticket_list"></ul>
+    {{/if}}
+
+    {{if group_publish_type == 'twitter'}}
+        <h2 class="ticket-limited-tw"><span>Twitter</span><span>限定チケット</span></h2>
+        <p class="ticket-limited-tw-label">Twitterアカウントをフォローしてチケット購入</p>
+        <ul id="tw_ticket_list"></ul>
+    {{/if}}
+
+    {{each tickets_info}}
+    <li class="ticket-li">
+        <div class="main-txt">
+            <strong>${name}</strong>
+            <div style="padding-bottom:0.6em;">
+                <div class="state">
+                    <div class="state-tag state-tag-${sales_status}"><span>${getTicketStatusLabel(sales_status)}</span></div>
+                </div>
+                <div class="price">¥${addFigure(price)}</div>
+                {{if display_remain && (sales_status != 3 && sales_status !=4 && sales_status !=5 && sales_status !=8)}}
+                <div class="number"><span>残り${ticket_stock}枚</span></div>
+                {{/if}}
+
+            </div>
+            <div style="padding-bottom:0.5em; font-size:11px; text-indent:-0.5em;">【{{if type=='normal'}}販売{{else}}受付{{/if}}開始】&nbsp;${formatDateTime(starttime)}</div>
+            <div style="padding-bottom:0.5em; font-size:11px; text-indent:-0.5em;">【{{if type=='normal'}}販売{{else}}受付{{/if}}終了】&nbsp;${formatDateTime(endtime)}</div>
+                {{if (free == true || type == 'lottery' || purchase_limited == true)}}
+                    <p style="color:red; font-size:11px;">※このチケットは1回限り申込可能です</p>
+                {{/if}}
+        </div>
+        <div id="ticket-btn-${id}" class="btn pie-btn-select">
+            <fieldset>
+                <select id="ticket-${id}" data-inline="true" data-theme="a" data-mini="true" class="_js_pie event_ticket_count ex_count ticket_type_${type} {{if free}}free_ticket{{else}}surcharge_ticket{{/if}} {{if publish_type == 'facebook'}}facebook_ticket{{/if}} {{if publish_type == 'twitter'}}twitter_ticket{{/if}} group_id_${group_id}" name="ticket_id_${id}" {{if ticket_stock < 1 || sales_status == "2" || sales_status == "3" || sales_status == "5" || sales_status == "8" || sold_out || is_disabled}}disabled="disabled"{{/if}} onchange="check_same_ticket(${id}, ${group_id}, '${type}', '${publish_type}', ${free});">
+                    <option value="" selected>枚数</option>
+                    {{each getTicketLimitJson(limit_min, limit_max, ticket_stock) }}
+                    <option value="${$value}">${$value}枚</option>
+                    {{/each}}
+                </select>
+            </fieldset>
+        </div>
+    </li>
+    <li class="ticket_detail_li">
+        <section class="ticket_detail_outline" style="background: #FFF;">
+            <div class="ticket_detail_text" id="outline-${key}">
+                <div id="outline-inner-${key}"></div>
+            </div>
+            <div class="ticket_detail_text" id="outline-more-${key}">
+                <div id="outline-inner-more-${key}" style="word-break:break-all;"></div>
+            </div>
+            <nav id="show_detail_button-${key}" class="link-ticket-details">
+                <a id="ticket_detail_toggle-${key}" href="#" onclick="show_ticket_detail('${key}');">もっと見る</a>
+            </nav>
+        </section>
+    </li>
+    {{/each}}
+
+
+</script>
+
+<script id="eventHistoriesListTemplate" type="text/x-jquery-tmpl">
+<div class="message">
+    <p>${formatDate(updatetime)}: ${updated_detail}</p>
+</div>
+</script>
+
+ <!-- my_today_event template -->
+<script id="todayEventTemplate" type="text/x-jquery-tmpl">
+<li>
+    <a rel="external" href="${base_url}myticket/detail?id=${id}">
+        <figure>
+            <div class="ticket-img"><img src="${event_pic_url}?mode=fix&height=80&width=80" alt="" width="40" height="40"></div>
+            <figcaption class="ticket-title">
+                <p class="artist">${mbellipsis(name, 52)}</p>
+                <strong>${mbellipsis(artist, 23)}</strong>
+            </figcaption>
+            <figcaption class="ticket-info">
+                 <div>
+                    <time datetime="2012-12-01T19:00:00+09:00">${formatDate(date_info.starttime)}&#xFF5E;</time>
+                    <p class="today-location">${mbellipsis(loc_name, 25)}</p>
+                 </div>
+                <div class="conttdown"><span>${getAfterHours(date_info.starttime)}</span></div>
+            </figcaption>
+        </figure>
+    </a>
+</li>
+</script>
+
+<script id="purchaseHistoryDetailTableTemplate" type="text/x-jquery-tmpl">
+<tbody>
+    {{each tickets}}
+    <tr>
+        <td class="type">チケット名</td>
+        <td class="text-break item-name"><span>${name}</span></td>
+    </tr>
+    <tr>
+        <td class="type">チケット料金</td>
+        <td>¥${addFigure(price)}</td>
+    </tr>
+    {{if this.credit_charge != undefined }}
+    <tr class="credit-price">
+        <td class="type">システム利用料</td>
+        <td>¥${addFigure(credit_charge)}</td>
+    </tr>
+    {{/if}}
+    {{if this.cvs_charge != undefined }}
+    <tr class="cvs-price">
+        <td class="type">システム利用料</td>
+        <td>¥${addFigure(cvs_charge)}</td>
+    </tr>
+    {{/if}}
+    {{if this.yahoowallet_charge != undefined }}
+    <tr class="yahoowallet-price">
+        <td class="type">システム利用料</td>
+        <td>¥${addFigure(yahoowallet_charge)}</td>
+    </tr>
+    {{/if}}
+    {{if this.carrier_charge != undefined }}
+    <tr class="carrier-price">
+        <td class="type">システム利用料</td>
+        <td>¥${addFigure(carrier_charge)}</td>
+    </tr>
+    {{/if}}
+    {{if this.atone_charge != undefined }}
+    <tr class="atone-price">
+        <td class="type">システム利用料</td>
+        <td>¥${addFigure(atone_charge)}</td>
+    </tr>
+    {{/if}}
+    <tr>
+        <td class="type">枚数</td>
+        <td>${count}枚</td>
+    </tr>
+    {{if this.credit_charge != undefined}}
+    <tr class="gray credit-price">
+        <td class="type">小計</td>
+        <td>
+            <span class="bold">¥${addFigure(credit_subtotal)}</span>
+        </td>
+    </tr>
+    {{/if}}
+    {{if this.cvs_charge != undefined }}
+    <tr class="gray cvs-price">
+        <td class="type">小計</td>
+        <td>
+            <span class="bold">¥${addFigure(cvs_subtotal)}</span>
+        </td>
+    </tr>
+    {{/if}}
+    {{if this.yahoowallet_charge != undefined }}
+    <tr class="gray yahoowallet-price">
+        <td class="type">小計</td>
+        <td>
+            <span class="bold">¥${addFigure(yahoowallet_subtotal)}</span>
+        </td>
+    </tr>
+    {{/if}}
+    {{if this.carrier_charge != undefined }}
+    <tr class="gray carrier-price">
+        <td class="type">小計</td>
+        <td>
+            <span class="bold">¥${addFigure(carrier_subtotal)}</span>
+        </td>
+    </tr>
+    {{/if}}
+    {{if this.atone_charge != undefined }}
+    <tr class="gray atone-price">
+        <td class="type">小計</td>
+        <td>
+            <span class="bold">¥${addFigure(atone_subtotal)}</span>
+        </td>
+    </tr>
+    {{/if}}
+    {{/each}}
+</tbody>
+<tfoot>
+    {{if $data.credit_total_price != undefined}}
+    <tr class="orange credit-price">
+        <td class="type">合計金額（税込）</td>
+        <td>¥${addFigure(credit_total_price)}</td>
+    </tr>
+    {{/if}}
+    {{if $data.cvs_total_price != undefined }}
+    <tr class="cvs-price">
+        <td class="type">コンビニ決済手数料</td>
+        <td>¥${addFigure(cvs_payment)}</td>
+    </tr>
+    <tr class="orange cvs-price">
+        <td class="type">合計金額（税込）</td>
+        <td>¥${addFigure(cvs_total_price)}</td>
+    </tr>
+    {{/if}}
+    {{if $data.yahoowallet_total_price != undefined }}
+    <tr class="orange yahoowallet-price">
+        <td class="type">合計金額（税込）</td>
+        <td>¥${addFigure(yahoowallet_total_price)}</td>
+    </tr>
+    {{/if}}
+    {{if $data.carrier_total_price != undefined }}
+    <tr class="orange carrier-price">
+        <td class="type">合計金額（税込）</td>
+        <td>¥${addFigure(carrier_total_price)}</td>
+    </tr>
+    {{/if}}
+    {{if $data.atone_total_price != undefined }}
+    <tr class="atone-price">
+        <td class="type">LivePocketあと払い手数料</td>
+        <td>¥${addFigure(atone_payment)}</td>
+    </tr>
+    <tr class="orange atone-price">
+        <td class="type">合計金額（税込）</td>
+        <td>¥${addFigure(atone_total_price)}</td>
+    </tr>
+    {{/if}}
+</tfoot>
+</script>
+
+<!-- my_today_event template (temporary layout) -->
+<script id="notificationListTemplate" type="text/x-jquery-tmpl">
+<li{{if !read}} class="highlight"{{/if}}>
+    <a rel="external" href="${base_url}notification/detail?id=${id}">
+        <div>
+            <span><span class='received_text'>受信日時</span> <time datetime="2013-04-07" style='width: 180px;color: #424242;'class="date">${formatDate(publishtime)}</time></span>
+            <div style='font-size: 14px;'><strong>{{if number}}[${number}]{{/if}}${title}</strong></div>
+            <br style="clear:both; line-height:0px;height: 0px;" />
+            <div style='float: left;' class="tag {{if type == 'service'}}tag-02{{else source_type == 'inquiry' && reply_type == "user" }}tag-04{{else type == 'user'}}tag-03{{else}}tag-01{{/if}}">
+                <em>{{if type == 'service'}}運営{{else source_type == 'inquiry' && reply_type == "user" }}自分{{else type == 'user'}}友達{{else}}主催者{{/if}}</em>
+            </div>
+
+            <div style='float: left; margin-left: 10px; margin-top: -2px; font-weight:normal; width:80%; overflow:hidden; text-overflow:ellipsis; white-space: nowrap;'>{{if type == 'service'}}${application_name}{{else source_type == 'inquiry' && reply_type == "user" }}${user_name + " (To " + promoter_name + ")"}{{else type == 'user'}}${user_name}{{else}}${promoter_name}{{/if}}</span></div>
+            <br style="clear:both; line-height:0px;height: 0px;" />
+        </div>
+    </a>
+</li>
+</script>
+
+<script id="faqListTemplate" type="text/x-jquery-tmpl">
+    <h1>${name}</h1>
+    <nav>
+        <ul data-role="listview" data-theme="a" class="normal_list">
+            {{each questions}}
+            <li><a rel="external" href="faq_detail?id=${id}">${question}</a></li>
+            {{/each}}
+        </ul>
+    </nav>
+    <br /><br />
+</script>
+
+<!--
+<script id="ownerNotificationListTemplate" type="text/x-jquery-tmpl">
+    <div style="border: 1px solid gray; margin:20px; padding : 20px; background-color:white;">
+        <div style="float:right;">
+            <select name="slider" id="${promoter_id}" data-role="slider" data-mini="true" data-theme="a">
+                <option value="off"{{if !notified}} selected="selected"{{/if}}>Off</option>
+                <option value="on"{{if notified}} selected="selected"{{/if}}>On</option>
+            </select>
+        </div>
+        <p>${name}</p>
+    </div>
+</script>
+ -->
+
+
+<script id="receiveEventTemplate" type="text/x-jquery-tmpl">
+<li>
+<a href="#">
+    <figure>
+        <div class="event-img">
+            <img src="${image}" alt="" width="90" height="87">
+        </div>
+        <figcaption>
+        <div class="event-text" style="height: 75px;">
+            <strong id="receive-event-title">${mbellipsis(title, 40)}</strong>
+            {{if artist}}
+            <p class="artist">${mbellipsis(artist, 25)}</p>
+            {{/if}}
+            <time datetime="2012-12-01T19:00:00+09:00">${formatDate(starttime)}&#xFF5E;</time>
+            <p>${mbellipsis(locname, 25)}</p>
+        </div>
+        </figcaption>
+    </figure>
+</a>
+</li>
+</script>
+
+<script id="questionEventTemplate" type="x-jquert-tmpl">
+<div class="box">
+    <div class="event_title"><strong>${name}</strong></div>
+    <div class="event_date">${formatDateTime(date_info.starttime)}&#xFF5E;</div>
+</div>
+</script>
+
+<script id="questionListTemplate" type="x-jquert-tmpl">
+  <section class="question-section form-in">
+    <strong>Q${idx}</strong>{{if required == 1}}<em>必須</em>{{/if}}
+    <div {{if required == 1}}class="question-str"{{/if}}>${title}{{if question_type == 'multi'}}&nbsp;&nbsp;※複数選択可{{/if}}</div>
+        {{if question_type == 'single' || question_type == 'multi'}}
+            <div class="form-info" data-role="fieldcontain">
+                <fieldset data-role="controlgroup" data-type="vertical">
+        {{/if}}
+        {{each list}}
+            {{if question_type == 'free'}}
+            <div class="form-info">
+                <textarea name="${q_id}_${id}" rows="10" cols="12" data-theme="c" value="" data-mini="true"></textarea>
+            </div>
+            {{/if}}
+            {{if question_type == 'single'}}
+                <input type="radio" id="${q_id}_${id}" name="${q_id}_" value="${id}" data-theme="a" />
+                <label for="${q_id}_${id}">${title}</label>
+            {{/if}}
+            {{if question_type == 'multi'}}
+                <input type="checkbox" id="${q_id}_${id}" name="${q_id}_${id}" value="1"  data-theme="a"/>
+                <label for="${q_id}_${id}">${title}</label>
+            {{/if}}
+        {{/each}}
+        {{if question_type == 'single' || question_type == 'multi'}}
+                </fieldset>
+            </div>
+        {{/if}}
+  </section>
+</script>
+
+<script id="prevNextTicketLinkTemplate" type="x-jquert-tmpl">
+    {{if prev_id != '' || next_id != ''}}
+    <div>
+        {{if prev_id != ''}}
+        <a href="/myticket/publish?ticket_id=${prev_id}&event_id=${event_id}" class="flick_btn_back">
+            <img src="/images/scroll-dark_l.png" />
+        </a>
+        {{/if}}
+        {{if next_id != ''}}
+        <a href="/myticket/publish?ticket_id=${next_id}&event_id=${event_id}" class="flick_btn_next">
+            <img src="/images/scroll-dark_r.png" />
+        </a>
+        {{/if}}
+    </div>
+    {{/if}}
+</script>
+
+<script id="qrcodeManualTemplate" type="x-jquert-tmpl">
+    <p>{{html description}}</p>
+</script>
+
+<script id="otherPaymentMethodTemplate" type="x-jquery-tmpl">
+    <option value=${value}>${name}</option>
+</script>
+
+<script id="sbpsPostFormTemplate" type="x-jquery-tmpl">
+    <form action="${sbps_link_url}" method="POST" id="sbps_payment_form">
+      {{each attributes}}
+          <input type="hidden" name="${name}" value="${value}" />
+      {{/each}}
+
+      <input type="submit" value="" style="display:none;">
+    </form>
+</script>
+
+<script id="cvsPaydatasTemplate" type="x-jquery-tmpl">
+    {{if data_list.payment_type === "cvs"}}
+        <p style='text-align:left;'>以下の情報をご確認頂き、支払期限までに必ず支払いを完了してください</p>
+    {{/if}}
+    <table class="account_conf_table" style="margin:13px;">
+        <tr>
+            <td style="font-weight: bold"><nobr>支払方法<nobr/></td>
+            <td id="pay_method">${event.order_type}</td>
+        </tr>
+    {{if data_list.payment_type === "cvs"}}
+        <tr>
+            <td><nobr>コンビニ名称</nobr></td>
+            <td>${cvs_name}</td>
+        </tr>
+        {{each cvs_pay_datas}}
+        <tr>
+            <td><nobr>${label}</nobr></td>
+            {{if value.match(/^http/)}}
+                <td><a href='${value}'>${value}</a></td>
+            {{else}}
+                <td>${value}</td>
+            {{/if}}
+        </tr>
+    {{/each}}
+    {{/if}}
+    </table>
+    {{if data_list.payment_type === "cvs"}}
+        <p style='text-align:left;'>※ 期日までにお支払いが確認できない場合は、キャンセル扱いになります</p>
+    {{/if}}
+</script>
+
+
+<!-- これ以下にdesignrenewal用のテンプレートを追記していく。最終的に上記の必要のないものは削除 -->
+<script id="eventGroupListTemplate" type="text/x-jquery-tmpl">
+<li><a rel="external" class="arrowGreen layoutImage" href="${base_url}{{if type == 1}}tour?id={{else}}event?id={{/if}}${id}">
+    <section class="day">
+        <p>
+            <span class="year">${date_info.year}</span>
+            <span class="day">${date_info.month}/${date_info.day}</span>
+            <span class="time">${date_info.hour}:${date_info.minutes}<!--${date_info.starttime}--></span>
+        </p>
+    </section>
+    <section class="date">
+        <p><span class="status label-status {{if sales_status == 1}}sale{{/if}}{{if sales_status == 2}}before-sale{{/if}}{{if sales_status == 3}}finished-sale{{/if}}">{{if sales_status == 1}}販売中{{/if}}{{if sales_status == 2}}販売前{{/if}}{{if sales_status == 3}}販売終了{{/if}}</span> ${pref_name}</p>
+        <ul>
+            <li class="open text-break">${loc_name}</li>
+            {{if artistname}}
+            <li class="artist text-break">${artistname}</li>
+            {{/if}}
+        </ul>
+    </section>
+</a></li>
+</script>
+
+<!-- ツアーリンクリスト -->
+<script id="tourLinkListTemplate" type="text/x-jquery-tmpl">
+<li class="js-list"><a class="arrowGreen" rel="external" href="${item_url}" target="_blank">
+    <figure><img src="${item_pic_url}?mode=fix&height=160&width=160" width="80" height="80"></figure>
+    <section>
+        <h4>${name}</h4>
+        <p class="text-break">${description}</p>
+    </section>
+</a></li>
+</script>
+
+
+<!-- イベント,グループページ オフィシャルサイト -->
+<script id="tourOfficialLinkTemplate" type="text/x-jquery-tmpl">
+<li class="js-list"><a class="arrowGreen" rel="external" href="${official_site_url}" target="_blank">
+    <figure><img src="pc_images_v2/pc/event/linkImage03.jpg" width="80" height="80"></figure>
+    <section>
+        <h4>オフィシャルサイト</h4>
+        <p style="word-break: break-all">要確認</p>
+    </section>
+</a></li>
+</script>
+
+
+<!-- イベントグループ,イベントページ スライドショー -->
+<script id="eventCarouselTemplate" type="text/x-jquery-tmpl">
+<li>
+    <img src="${}">
+</li>
+</script>
+
+
+<!-- 申込詳細 購入内容テンプレート -->
+<script id="purchaseHistoryDetailTableListTemplate" type="text/x-jquery-tmpl">
+{{each tickets}}
+<table>
+    <tr>
+        <th>チケット名</th>
+        <td class="text-break">${name}</td>
+    </tr>
+    <tr>
+        <th>チケット料金</th>
+        <td>
+            ¥${addFigure(price)}
+            {{if this.invitation && default_price !== 0 && default_price !== '0'}}
+                {{if price != default_price}}
+                    　<s>¥${addFigure(default_price)}</s>
+                {{/if}}
+            {{/if}}
+            {{if is_goto_event}}
+                <span>(通常価格 ¥${addFigure(default_base_price)})</span>
+            {{/if}}
+        </td>
+    </tr>
+    {{if this.credit_charge != undefined }}
+    <tr class="credit-price">
+        <th>システム利用料</th>
+        <td>¥${addFigure(credit_charge)}</td>
+    </tr>
+    {{/if}}
+    {{if this.cvs_charge != undefined }}
+    <tr class="cvs-price">
+        <th>システム利用料</th>
+        <td>¥${addFigure(cvs_charge)}</td>
+    </tr>
+    {{/if}}
+    {{if this.yahoowallet_charge != undefined }}
+    <tr class="yahoowallet-price">
+        <th>システム利用料</th>
+        <td>¥${addFigure(yahoowallet_charge)}</td>
+    </tr>
+    {{/if}}
+    {{if this.carrier_charge != undefined }}
+    <tr class="carrier-price">
+        <th>システム利用料</th>
+        <td>¥${addFigure(carrier_charge)}</td>
+    </tr>
+    {{/if}}
+    {{if this.atone_charge != undefined }}
+    <tr class="carrier-price">
+        <th>システム利用料</th>
+        <td>¥${addFigure(atone_charge)}</td>
+    </tr>
+    {{/if}}
+    {{if this.negime_charge != undefined }}
+    <tr class="negime-price">
+        <th>システム利用料</th>
+        <td>¥${addFigure(negime_charge)}</td>
+    </tr>
+    {{/if}}
+    <tr>
+        <th>枚数</th>
+        <td>${count}枚</td>
+    </tr>
+    {{if this.credit_charge != undefined}}
+    <tr class="subtotal credit-price">
+        <th>小計</th>
+        <td>
+            <span class="bold">¥${addFigure(credit_subtotal)}{{if this.invitation && default_credit_subtotal !== 0 && default_credit_subtotal !== '0'}}{{if credit_subtotal != default_credit_subtotal}}　<s>¥${addFigure(default_credit_subtotal)}</s>{{/if}}{{/if}}</span>
+        </td>
+    </tr>
+    {{/if}}
+    {{if this.cvs_charge != undefined }}
+    <tr class="subtotal cvs-price">
+        <th>小計</th>
+        <td>
+            <span class="bold">¥${addFigure(cvs_subtotal)}{{if this.invitation && default_cvs_subtotal !== 0 && default_cvs_subtotal !== '0'}}{{if cvs_subtotal != default_cvs_subtotal}}　<s>¥${addFigure(default_cvs_subtotal)}</s>{{/if}}{{/if}}</span>
+        </td>
+    </tr>
+    {{/if}}
+    {{if this.yahoowallet_charge != undefined }}
+    <tr class="subtotal yahoowallet-price">
+        <th>小計</th>
+        <td>
+            <span class="bold">¥${addFigure(yahoowallet_subtotal)}{{if this.invitation && default_yahoowallet_subtotal !== 0 && default_yahoowallet_subtotal !== '0'}}{{if yahoowallet_subtotal != default_yahoowallet_subtotal}}　<s>¥${addFigure(default_yahoowallet_subtotal)}</s>{{/if}}{{/if}}</span>
+        </td>
+    </tr>
+    {{/if}}
+    {{if this.carrier_charge != undefined }}
+    <tr class="subtotal carrier-price">
+        <th>小計</th>
+        <td>
+            <span>¥${addFigure(carrier_subtotal)}{{if this.invitation && default_carrier_subtotal !== 0 && default_carrier_subtotal !== '0'}}{{if carrier_subtotal != default_carrier_subtotal}}　<s>¥${addFigure(default_carrier_subtotal)}</s>{{/if}}{{/if}}</span>
+        </td>
+    </tr>
+    {{/if}}
+    {{if this.atone_charge != undefined }}
+    <tr class="subtotal carrier-price">
+        <th>小計</th>
+        <td>
+            <span>¥${addFigure(atone_subtotal)}{{if this.invitation && default_atone_subtotal !== 0 && default_atone_subtotal !== '0'}}{{if atone_subtotal != default_atone_subtotal}}　<s>¥${addFigure(default_atone_subtotal)}</s>{{/if}}{{/if}}</span>
+        </td>
+    </tr>
+    {{/if}}
+    {{if this.negime_charge != undefined }}
+    <tr class="subtotal negime-price">
+        <th>小計</th>
+        <td>
+            <span>¥${addFigure(negime_subtotal)}{{if this.invitation && default_negime_subtotal !== 0 && default_negime_subtotal !== '0'}}{{if negime_subtotal != default_negime_subtotal}}　<s>¥${addFigure(default_negime_subtotal)}</s>{{/if}}{{/if}}</span>
+        </td>
+    </tr>
+    {{/if}}
+</table>
+{{/each}}
+
+
+{{if $data.credit_total_price != undefined}}
+<table>
+    <tr class="sum credit-price">
+        <th><nobr>合計金額（税込）</nobr></th>
+        <td>¥${addFigure(credit_total_price)}</td>
+    </tr>
+</table>
+{{/if}}
+{{if $data.cvs_total_price != undefined }}
+<table>
+    <tr class="cvs-price">
+        <th>コンビニ決済手数料</th>
+        <td>¥${addFigure(cvs_payment)}</td>
+    </tr>
+</table>
+<table>
+    <tr class="sum cvs-price">
+        <th><nobr>合計金額（税込）</nobr></th>
+        <td>¥${addFigure(cvs_total_price)}</td>
+    </tr>
+</table>
+{{/if}}
+{{if $data.yahoowallet_total_price != undefined }}
+<table>
+    <tr class="sum yahoowallet-price">
+        <th><nobr>合計金額（税込）</nobr></th>
+        <td>¥${addFigure(yahoowallet_total_price)}</td>
+    </tr>
+</table>
+{{/if}}
+{{if $data.carrier_total_price != undefined }}
+<table>
+    <tr class="sum carrier-price">
+        <th><nobr>合計金額（税込）</nobr></th>
+        <td>¥${addFigure(carrier_total_price)}</td>
+    </tr>
+</table>
+{{/if}}
+{{if $data.atone_total_price != undefined }}
+<table>
+    <tr class="atone-price">
+        <th>LivePocketあと払い手数料</th>
+        <td>¥${addFigure(atone_payment)}</td>
+    </tr>
+</table>
+<table>
+    <tr class="sum atone-price">
+        <th><nobr>合計金額（税込）</nobr></th>
+        <td>¥${addFigure(atone_total_price)}</td>
+    </tr>
+</table>
+{{/if}}
+{{if $data.negime_total_price != undefined }}
+<table>
+<tr class="negime-price">
+        <th>事務手数料</th>
+        <td>¥${addFigure(negime_payment)}</td>
+    </tr>
+</table>
+<table>
+    <tr class="sum negime-price">
+        <th><nobr>合計金額（税込）</nobr></th>
+        <td>¥${addFigure(negime_total_price)}</td>
+    </tr>
+</table>
+{{/if}}
+</script>
+
+
+<!--申込詳細 支払い方法テンプレート -->
+<script id="paymentMethodTemplate" type="x-jquery-tmpl">
+    {{if data_list.payment_type === "cvs"}}
+    <p>以下の情報をご確認頂き、支払期限までに必ず支払いを完了してください<br /><span class="textRed">※ 期日までにお支払いが確認できない場合は、キャンセル扱いになります</span></p>
+    {{/if}}
+    <table>
+        <tr>
+            <th>支払い方法</th>
+            <td id="pay_method">${event.order_type}</td>
+        </tr>
+        {{if data_list.payment_type === "cvs"}}
+        <tr>
+            <th>コンビニ名称</th>
+            <td>${cvs_name}</td>
+        </tr>
+        {{each cvs_pay_datas}}
+        <tr>
+            <th>${label}</th>
+            {{if value.match(/^http/)}}
+                <td><a href='${value}'>${value}</a></td>
+            {{else}}
+                <td>${value}</td>
+            {{/if}}
+        </tr>
+        {{/each}}
+        {{/if}}
+        {{if data_list.payment_type === "negime"}}
+        <tr>
+            <th>支払い用URL送信日時</th>
+            <td>${data_list.form_sendday}</td>
+        </tr>
+        {{/if}}
+    </table>
+</script>
+
+
+<!-- common event list template -->
+<script id="purchaseEventListTemplate" type="text/x-jquery-tmpl">
+    <li class="list-info-thumb">
+        <section class="layoutImage table-layout-fix">
+            <div class="ticket-figure-wrapper">
+            <figure><img class = thumb-${event_pic_type} src="${event_pic_url}" alt="">
+            </div>
+            </figure>
+            <section>
+                {{if subscription_status}}
+                    <span class="status label-status {{if subscription_status == 'waiting'}}waiting{{else order_status != 'canceled' && subscription_status == 'won' && status_incomplete === 'waiting'}}waiting{{else order_status != 'canceled' && subscription_status == 'won'}}won{{else order_status == 'canceled' && subscription_status == 'won'}}canceled{{else subscription_status == 'canceled'}}canceled{{else subscription_status == 'lost'}}lost{{/if}}">
+                        {{if subscription_status == 'waiting'}}
+                        抽選待ち
+                        {{else order_status != 'canceled' && subscription_status == 'won' && status_incomplete === 'waiting'}}
+                        抽選待ち
+                        {{else order_status != 'canceled' && subscription_status == 'won'}}
+                        当選
+                        {{else order_status == 'canceled' && subscription_status == 'won'}}
+                        キャンセル
+                        {{else subscription_status == 'canceled'}}
+                        キャンセル
+                        {{else subscription_status == 'lost'}}
+                        落選
+                        {{/if}}
+                    </span>
+                {{/if}}
+                {{if order_status && !is_negime && subscription_status != 'canceled'}}
+                <span class="status label-status {{if order_status == 'committed'}}committed{{else order_status == 'canceled'}}canceled{{else order_status == 'unpaid'}}{{if status_incomplete !== 'waiting'}}unpaid{{/if}}{{else order_status == 'credited'}}credited{{else order_status == 'free'}}free{{/if}}">
+                {{if order_status == 'committed'}}
+                    {{if !is_negime}}
+                    入金済み
+                    {{/if}}
+                {{else order_status == 'canceled' && subscription_status != 'canceled' && subscription_status != 'won'}}
+                    キャンセル
+                {{else order_status == 'unpaid'}}
+                    {{if status_incomplete !== 'waiting'}}
+                    入金待ち
+                    {{/if}}
+                {{else order_status == 'credited'}}
+                    入金済み
+                {{else order_status == 'free'}}
+                    無料
+                {{/if}}
+                </span>
+                {{/if}}
+                {{if is_negime}}
+                    {{if !subscription_status}}
+                        {{if order_status == 'canceled'}}
+                            <span class="status label-status canceled">
+                                キャンセル
+                            </span>
+                        {{else}}
+                            <span class="status label-status committed">
+                                先着
+                            </span>
+                        {{/if}}
+                    {{/if}}
+                    <span class="status label-status negime">
+                        あと値決め
+                    </span>
+                {{/if}}
+                {{if is_goto_target}}
+                    <span class="goto_label responsive_font_size purchased_history_detail">${go_to_label_name}対象</span>
+                {{/if}}
+                <h3 class="title text-break"><a data-ajax="false" href="${event_url}">${mbellipsis(name, 40)}</a></h3>
+                <ul class="data data-list row">
+                    {{if artist}}
+                    <li class="artist text-ellipsis">${artist}</li>
+                    {{/if}}
+                    {{if without_term !== '1'}}
+                    <li class="open text-ellipsis"><time datetime="2012-12-01T19:00:00+09:00">${formatDateOnly(date_info.starttime)}<span>${formatDateDay(date_info.starttime)}</span>&nbsp;${formatTime(date_info.starttime)}</time></li>
+                    {{else}}
+                        {{if formatDate(date_info.starttime, "date_only") != formatDate(date_info.endtime, "date_only")}}
+                            <li class="open"><time datetime="2012-12-01T19:00:00+09:00">${formatDateOnly(date_info.starttime)}<span>${formatDateDay(date_info.starttime)}</span>&nbsp;〜{{if is_sp}}<br />{{else}}&nbsp;{{/if}}${formatDateOnly(date_info.endtime)}<span>${formatDateDay(date_info.endtime)}</span></time></li>
+                        {{else}}
+                            <li class="open"><time datetime="2012-12-01T19:00:00+09:00">${formatDateOnly(date_info.starttime)}<span>${formatDateDay(date_info.starttime)}</span>
+                        {{/if}}
+                    {{/if}}
+                    <li class="map text-ellipsis">${loc_name}</li>
+                </ul>
+                <!-- 抽選待ちの場合 -->
+                {{if subscription_status && subscription_status == 'waiting' && cancel_url}}
+                    <p class="button btnCancel"><a href="${cancel_url}" data-ajax='false'>申込み取消</a></p>
+                {{/if}}
+                <!-- 当選後の支払いの場合  buttonのクラス教えて-->
+                {{if reorder && payment_url}}
+                    <br />
+                    <p>下記より支払を完了してください</p>
+                    <p>※期日までに支払が確認できない場合は、キャンセル扱いになります</p>
+                    {{if is_expired}}
+                    <div class="payment-expired-msg">支払期限を過ぎたため支払できません<div>
+                    {{else}}
+                    <p class="button btnPayment"><a href="${payment_url}" data-ajax='false' onclick="return navigatePurchaseConfirmPage('${time_for_payment}')">支払画面へ</a></p>
+                    {{/if}}
+                {{/if}}
+                <!-- イベントが中止になった場合はその旨のメッセージを表示させる -->
+                {{if event_status === 'canceled'}}
+                    <div class="event-canceled-msg">イベントは中止になりました<div>
+                {{/if}}
+            </section>
+        </section>
+    </li>
+</script>
+
+
+<!-- マイチケット画像付きリスト -->
+<script id="myTicketListTemplate" type="text/x-jquery-tmpl">
+<li class="js-item ticket-list" style="display:none!important;">
+    <section class="livedata">
+        <section class="layoutImage table-layout-fix">
+            <figure><img src="${event_info.image_url}?mode=fix&height=108&width=108" height="108" width="108" alt="${event_info.title}"></figure>
+            <section>
+                <h3 class="title text-ellipsis"><a href="/e/${event_info.cname}" data-ajax="false">${event_info.title}</a></h3>
+                <ul class="data-list line">
+                    <li class="open">${formatDate(event_info.start_time)}〜</li>
+                    {{if event_info.loc_name}}
+                    <li class="map text-ellipsis">${event_info.loc_name}</li>
+                    {{/if}}
+
+                    {{if name}}
+                    <li class="ticket no-icon text-ellipsis">${name}</li>
+                    {{/if}}
+
+                    {{if ticket_number}}
+                    <li class="number no-icon text-ellipsis"><span>チケット番号:</span><span wovn-ignore>${ticket_number}</span></li>
+                    {{/if}}
+
+                    {{if serial_number}}
+                    <li class="number no-icon text-ellipsis"><span>整理番号:</span><span wovn-ignore>${serial_number}</span></li>
+                    {{/if}}
+
+                    {{if seat}}
+                    <li class="number no-icon text-ellipsis"><span>座席番号:</span>${seat}</li>
+                    {{/if}}
+                </ul>
+                <span class="status">
+                {{if status == '6'}}イベントは終了しました{{/if}}
+                {{if status == '7'}}このチケットはキャンセルされました{{/if}}
+                {{if status == '8'}}未使用（アプリに発券済み）{{/if}}
+                {{if status == '9'}}アプリで使用済み{{/if}}
+                {{if status == '0'}}未使用{{/if}}
+                {{if status == '1' || status == '3'}}使用済み{{/if}}
+                {{if status == '2'}}${send_ticket_user}様から受け取り{{/if}}
+                {{if status == '4'}}${receive_ticket_user}様へお渡し済み{{/if}}
+                {{if status == '5'}}${receive_ticket_user}様が使用済み{{/if}}
+                {{if status == '10'}}受渡中{{/if}}
+                {{if status == '11'}}${send_ticket_user}様から受け取り(アプリに発券済み){{/if}}
+                {{if status == '12'}}${send_ticket_user}様から受け取り(アプリで使用済み){{/if}}
+                {{if status == '13'}}${receive_ticket_user}様へお渡し済み(アプリに発券済み){{/if}}
+                {{if status == '14'}}${receive_ticket_user}様が使用済み(アプリで使用済み){{/if}}
+                {{if status == '15'}}イベントが中止になりました{{/if}}
+                </span>
+            </section>
+        </section>
+        {{if is_pattern_auth}}
+        <section class="smartphoneTicket">
+            <p>このイベントに参加の際は、スマホアプリにチケットをダウンロードしてご利用ください&nbsp;<a href="/help/about_appli" data-ajax="false">&gt;&gt;スマホチケットとは</a></p>
+        </section>
+        {{/if}}
+    </section>
+    {{if is_past}}
+        {{if is_sp}}
+            {{if is_pattern_auth}}
+                {{if status == '0' || status == '1' || status == '2' || status == '3'}}
+                <section class="nextstep js-btn-area">
+                    <ul class="clearfix button">
+                        <li class="btnDownload"><a href="javascript:void(0);" onclick="downloadTicket('${purchase_id}')">チケットをダウンロード</a></li>
+                    </ul>
+                </section>
+                {{/if}}
+                {{if status == '8' || status == '9' || status == '11' || status == '12'}}
+                <section class="nextstep js-btn-area">
+                    <ul class="clearfix button">
+                        <li class="btn01 sp-wide"><a href="javascript:void(0);" onclick="resumeAppli();">チケットを表示</a></li>
+                    </ul>
+                </section>
+                {{/if}}
+            {{else}}
+                {{if status == '0' || status == '1' || status == '2' || status == '3'}}
+                <section class="nextstep js-btn-area">
+                <ul class="clearfix button">
+                  <li class="btn01 sp-wide"><a href="/myticket/publish?ticket_id=${purchase_id}&event_id=${event_info.id}" target="_blank">チケットを表示</a></li>
+                </ul>
+                </section>
+                {{/if}}
+            {{/if}}
+        {{else}}
+            {{if !is_pattern_auth}}
+                {{if status == '0' || status == '1' || status == '2' || status == '3' || status == '8' || status == '9' || status == '11' || status == '12'}}
+                <section class="nextstep js-btn-area">
+                    <ul class="clearfix button">
+                        <li class="btn01 sp-wide"><a href="/myticket/publish?ticket_id=${purchase_id}&event_id=${event_info.id}" target="_blank">チケットを表示</a></li>
+                    </ul>
+                </section>
+                {{/if}}
+            {{/if}}
+        {{/if}}
+    {{else}}
+        {{if is_sp}}
+            {{if status == '0'}}
+                {{if is_pattern_auth}}
+                <section class="nextstep js-btn-area">
+                    <ul class="clearfix button">
+                        <li class="btnDownload"><a href="javascript:void(0);" onclick="downloadTicket('${purchase_id}')">チケットをダウンロード</a></li>
+                        <li class="btn-01 sp-wide"><a href="javascript:void(0);" onclick="UTIL.send_ticket('${purchase_id}');">友達に渡す</a></li>
+                    </ul>
+                </section>
+                {{else}}
+                <section class="nextstep js-btn-area">
+                    <ul class="clearfix button">
+                        <li class="btn01"><a href="javascript:void(0);" onclick="UTIL.send_ticket('${purchase_id}');">友達に渡す</a></li>
+                        <li class="btn02"><a href="/myticket/publish?ticket_id=${purchase_id}&event_id=${event_info.id}" target="_blank">チケットを表示</a></li>
+                    </ul>
+                </section>
+                {{/if}}
+            {{else status == '1'}}
+                {{if is_pattern_auth}}
+                <section class="nextstep js-btn-area">
+                    <ul class="clearfix button">
+                    <li class="btnDownload"><a href="javascript:void(0);" onclick="downloadTicket('${purchase_id}')">チケットをダウンロード</a></li>
+                    </ul>
+                </section>
+                {{else}}
+                <section class="nextstep js-btn-area">
+                    <ul class="clearfix button">
+                        <li class="btn01 sp-wide"><a href="/myticket/publish?ticket_id=${purchase_id}&event_id=${event_info.id}" target="_blank">チケットを表示</a></li>
+                    </ul>
+                </section>
+                {{/if}}
+            {{else status == '2'}}
+            <section class="nextstep js-btn-area">
+                <ul class="clearfix button">
+                {{if is_pattern_auth}}
+                    <li class="btnDownload"><a href="javascript:void(0);" onclick="downloadTicket('${purchase_id}')">チケットをダウンロード</a></li>
+                    <li class="btn01 sp-wide"><a href="javascript:void(0);"  onclick="UTIL.bring_back_ticket('${purchase_id}', '${html_escape(send_ticket_user)}','${event_info.id}');">購入者に返す</a></li>
+                {{else}}
+                    <li class="btn01"><a href="javascript:void(0);"  onclick="UTIL.bring_back_ticket('${purchase_id}', '${html_escape(send_ticket_user)}','${event_info.id}');">購入者に返す</a></li>
+                    <li class="btn02"><a href="/myticket/publish?ticket_id=${purchase_id}&event_id=${event_info.id}" target="_blank">チケットを表示</a></li>
+                {{/if}}
+                </ul>
+            </section>
+            {{else status == '3'}}
+            <section class="nextstep js-btn-area">
+                <ul class="clearfix button">
+                {{if is_pattern_auth}}
+                    <li class="btnDownload"><a href="javascript:void(0);" onclick="downloadTicket('${purchase_id}')">チケットをダウンロード</a></li>
+                {{else}}
+                    <li class="btn01 sp-wide"><a href="/myticket/publish?ticket_id=${purchase_id}&event_id=${event_info.id}" target="_blank">チケットを表示</a></li>
+                {{/if}}
+                </ul>
+            </section>
+            {{else status == '4'}}
+            <section class="nextstep js-btn-area">
+                <ul class="clearfix button">
+                    <li class="btn01 sp-wide"><a href="javascript:void(0);" onclick="UTIL.collect_ticket('${html_escape(receive_ticket_user)}', '${purchase_id}');">チケットを回収</a></li>
+                </ul>
+            </section>
+            {{else status == '8'}}
+            <section class="nextstep js-btn-area">
+                <ul class="clearfix button">
+                {{if is_pattern_auth}}
+                    <li class="btn01"><a href="javascript:void(0);" onclick="resumeAppli('start');">友達に渡す</a></li>
+                    <li class="btn02"><a href="javascript:void(0);" onclick="resumeAppli();">チケットを表示</a></li>
+                {{else}}
+                    <li class="btn01 sp-wide"><a href="/myticket/publish?ticket_id=${purchase_id}&event_id=${event_info.id}" target="_blank">チケットを表示</a></li>
+                {{/if}}
+                </ul>
+            </section>
+            {{else status == '9'}}
+            <section class="nextstep js-btn-area">
+                <ul class="clearfix button">
+                {{if is_pattern_auth}}
+                    <li class="btn01 sp-wide"><a href="javascript:void(0);" onclick="resumeAppli();">チケットを表示</a></li>
+                {{else}}
+                    <li class="btn01 sp-wide"><a href="/myticket/publish?ticket_id=${purchase_id}&event_id=${event_info.id}" target="_blank">チケットを表示</a></li>
+                {{/if}}
+                </ul>
+            </section>
+            {{else status == '10'}}
+            <section class="nextstep js-btn-area">
+                <ul class="clearfix button">
+                    <li class="btn01"><a href="javascript:void(0);" onclick="UTIL.send_ticket('${purchase_id}');">再送する</a></li>
+                    <li class="btn02"><a href="javascript:void(0);" onclick="UTIL.cancel_ticket_sending('${purchase_id}');">受渡を中止</a></li>
+                </ul>
+            </section>
+            {{else status == '11'}}
+            <section class="nextstep js-btn-area">
+                <ul class="clearfix button">
+                {{if is_pattern_auth}}
+                    <li class="btn01 sp-wide"><a href="javascript:void(0);" onclick="resumeAppli();">チケットを表示</a></li>
+                {{else}}
+                    <li class="btn01 sp-wide"><a href="/myticket/publish?ticket_id=${purchase_id}&event_id=${event_info.id}" target="_blank">チケットを表示<</a></li>
+                {{/if}}
+                </ul>
+            </section>
+            {{else status == '12'}}
+            <section class="nextstep js-btn-area">
+                <ul class="clearfix button">
+                {{if is_pattern_auth}}
+                    <li class="btn01 sp-wide"><a href="javascript:void(0);" onclick="resumeAppli();">チケットを表示</a></li>
+                {{else}}
+                    <li class="btn01 sp-wide"><a href="/myticket/publish?ticket_id=${purchase_id}&event_id=${event_info.id}" target="_blank" onclick="publish_ticket('${purchase_id}');">チケットを表示</a></li>
+                {{/if}}
+                </ul>
+            </section>
+            {{/if}}
+        {{else}}
+            {{if status == '0'}}
+            <section class="nextstep js-btn-area">
+                <ul class="clearfix button">
+                {{if is_pattern_auth}}
+                    <li class="btn01 sp-wide"><a href="/myticket/send_friend?id=${purchase_id}" data-ajax="false">友達に渡す</a></li>
+                {{else}}
+                    <li class="btn01"><a href="/myticket/send_friend?id=${purchase_id}" data-ajax="false">友達に渡す</a></li>
+                    <li class="btn02"><a href="/myticket/publish?ticket_id=${purchase_id}&event_id=${event_info.id}" target="_blank">チケットを表示</a></li>
+                {{/if}}
+                </ul>
+            </section>
+            {{/if}}
+            {{if status == '1'}}
+                {{if !is_pattern_auth}}
+                <section class="nextstep js-btn-area">
+                    <ul class="clearfix button">
+                        <li class="btn01 sp-wide"><a href="/myticket/publish?ticket_id=${purchase_id}&event_id=${event_info.id}" target="_blank">チケットを表示</a></li>
+                    </ul>
+                </section>
+                {{/if}}
+            {{/if}}
+            {{if status == '2'}}
+            <section class="nextstep js-btn-area">
+                <ul class="clearfix button">
+                {{if !is_pattern_auth}}
+                    <li class="btn01"><a href="/myticket/publish?ticket_id=${purchase_id}&event_id=${event_info.id}" target="_blank">チケットを表示</a></li>
+                {{/if}}
+                    <li class="{{if !is_pattern_auth}}btn02{{else}}btn01 btn-wide{{/if}}"><a href="javascript:void(0);"  onclick="UTIL.bring_back_ticket('${purchase_id}', '${html_escape(send_ticket_user)}','${event_info.id}');">購入者に返す</a></li>
+                </ul>
+            </section>
+            {{/if}}
+            {{if status == '3'}}
+                {{if !is_pattern_auth}}
+                <section class="nextstep js-btn-area">
+                    <ul class="clearfix button">
+                        <li class="btn01 sp-wide"><a href="/myticket/publish?ticket_id=${purchase_id}&event_id=${event_info.id}" target="_blank">チケットを表示</a></li>
+                    </ul>
+                </section>
+                {{/if}}
+            {{/if}}
+            {{if status == '4'}}
+            <section class="nextstep js-btn-area">
+                <ul class="clearfix button">
+                    <li class="btn01 sp-wide"><a href="javascript:void(0);" onclick="UTIL.collect_ticket('${html_escape(receive_ticket_user)}', '${purchase_id}');">チケットを回収</a></li>
+                </ul>
+            </section>
+            {{/if}}
+            {{if status == '8' || status == '9' || status == '11' || status == '12'}}
+                {{if !is_pattern_auth}}
+                <section class="nextstep js-btn-area">
+                    <ul class="clearfix button">
+                        <li class="btn01 sp-wide"><a href="/myticket/publish?ticket_id=${purchase_id}&event_id=${event_info.id}" data-ajax="false" target="_blank">チケットを表示</a></li>
+                    </ul>
+                </section>
+                {{/if}}
+            {{/if}}
+            {{if status == '10'}}
+            <section class="nextstep js-btn-area">
+                <ul class="clearfix button">
+                    <li class="btn01"><a href="/myticket/send_friend?id=${purchase_id}" data-ajax="false">再送する</a></li>
+                    <li class="btn02"><a href="javascript:void(0);" onclick="UTIL.cancel_ticket_sending('${purchase_id}');">受渡を中止</a></li>
+                </ul>
+            </section>
+            {{/if}}
+        {{/if}}
+    {{/if}}
+</li>
+</script>
+
+<!-- サイトからのお知らせリスト template -->
+<script id="newsListTemplate" type="text/x-jquery-tmpl">
+<li>
+    <a rel="external" href="${base_url}news/detail?id=${id}">
+        <p class="font-bold creation-date">${formatDate(starttime, "date_only")}</p>
+        <p>${mbellipsis(message_title, 100)}</p>
+    </a>
+</li>
+</script>
+
+
+<!-- 気になる公演リスト template-->
+<script id="bookmarkListTemplate" type="text/x-jquery-tmpl">
+<li>
+    <a href="${base_url}event?id=${id}" class="arrowGreen layoutImage" data-ajax="false">
+        <figure><img src="${event_pic_url}?mode=fix&height=108&width=108" height="108" width="108" alt="${name}"></figure>
+        <section>
+            <h3 class="title text-break">${name}</h3>
+            <ul>
+                {{if artistname}}
+                <li class="artist">${artistname}</li>
+                {{/if}}
+                <li class="open text-ellipsis"><time datetime="2012-12-01T19:00:00+09:00">${formatDate(date_info.starttime)}&#xFF5E;</time></li>
+                <li class="map text-ellipsis">${loc_name}</li>
+            </ul>
+            {{if detail}}
+            <p class="text-break">${mbellipsis(detail, 180)}</p>
+            {{/if}}
+
+        </section>
+    </a>
+</li>
+</script>
+
+
+<!-- 申込状況履歴リスト -->
+<script id="purchaseHistoryListTemplate" type="text/x-jquery-tmpl">
+    <li>
+        <a rel="external" href="${base_url}purchased_history/detail?id=${id}" class="arrowGreen">
+            <section class="title clearfix">
+                {{if subscription_status}}
+                    {{if subscription_status}}
+                    <span class="status label-status {{if subscription_status == 'waiting'}}waiting{{else subscription_status == 'canceled'}}canceled{{else}}lost{{/if}}">
+                        {{if subscription_status == 'waiting'}}
+                        抽選待ち
+                        {{else subscription_status == 'canceled'}}
+                        キャンセル
+                        {{else}}
+                        落選
+                        {{/if}}
+                        </span>
+                    {{/if}}
+                {{else}}
+                    {{if order_status}}
+                    <span class="status label-status {{if order_status == 'committed'}}committed{{else order_status == 'canceled'}}canceled{{else order_status == 'unpaid'}}unpaid{{else order_status == 'credited'}}credited{{else order_status == 'free'}}free{{/if}}">
+                        {{if order_status == 'committed'}}
+                        入金済み
+                        {{else order_status == 'canceled'}}
+                        キャンセル
+                        {{else order_status == 'unpaid'}}
+                        入金待ち
+                        {{else order_status == 'credited'}}
+                        入金済み
+                        {{else order_status == 'free'}}
+                        無料
+                        {{/if}}
+                    </span>
+                    {{/if}}
+                {{/if}}
+                <h3>${name}</h3>
+            </section>
+            <p>${event_group_name}</p>
+            <ul>
+                {{if payment_method == 'lottery' || (payment_type == 'docomo' || payment_type == 'auone' || payment_type == 'mysoftbank' || payment_type == 'cvs') }}
+                <li><span>申込日：</span>${formatDate(create_time, 'date_only')}</li>
+                {{else}}
+                <li><span>申込日：</span>${formatDate(order_date, 'date_only')}&nbsp;</li>
+                {{/if}}
+                <li><span>申込番号：</span>${id}</li>
+            </ul>
+        </a>
+    </li>
+</script>
+
+<!-- フッターバナー -->
+<script id="footerBannerListTemplate" type="text/x-jquery-tmpl">
+<li class="item"><a href="${url}" data-ajax="false" data-role="none" target="_blank"><img class="thumb" src="${image}" width="235" height="100" /></a></li>
+</script>
+    
+        <title>LivePocket-Ticket- ソーシャルチケットサービス</title>
+    
+    <!--[if lt IE 9]>
+    <script src="https://t.livepocket.jp/pc_js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!--[if IE]>
+    <script>
+    $.ajaxSetup({cache: false});
+    </script>
+    <![endif]-->
+
+    <script type="text/javascript" src="https://t.livepocket.jp/pc_js_v2/jquery.mobile.negate.js"></script>
+    <script type="text/javascript" src="https://t.livepocket.jp/javascripts/jquery.inview.min.js"></script>
+
+        <!-- バナー広告 -->
+    <script data-ad-client="ca-pub-2166064557737318" async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" data-checked-head="true"></script>
+    
+        <meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9nrunKdU5m96PSN1XsSGr3qOP0lvPFUB2AiAylCDlN5DTl17uDFkpQuHj1AFtgWLxpLaiBZuhrtb2WOu7ofHwEAAACKeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A93bovR+QVXNx2/38qDbmeYYf1wdte9EO37K9eMq3r+541qo0byhYU899BhPB7Cv9QqD7wIbR1B6OAc9kEfYCA4AAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A1S5fojrAunSDrFbD8OfGmFHdRFZymSM/1ss3G+NEttCLfHkXvlcF6LGLH8Mo5PakLO1sCASXU1/gQf6XGuTBgwAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><link href="https://j.wovn.io/css/widget?v=ce7397e641" rel="stylesheet"><script async="" src="https://fundingchoicesmessages.google.com/i/ca-pub-2166064557737318?href=https%3A%2F%2Ft.livepocket.jp%2Fmyticket%2Fpublish&amp;ers=2"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/880638290/?random=1760451113084&amp;cv=11&amp;fst=1760451113084&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be5a81v9178975409z86974867za200zb6974867zd6974867xea&amp;gcd=13l3l3l3l1l1&amp;dma=0&amp;tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948813~105322303~115480709~115752874~115834636~115834638~115868795~115868797~115995680~115995682&amp;u_w=1536&amp;u_h=864&amp;url=https%3A%2F%2Ft.livepocket.jp%2Fmyticket%2Fpublish%3Fticket_id%3D34932925%26event_id%3D499482&amp;ref=https%3A%2F%2Ft.livepocket.jp%2Fmyticket&amp;frm=0&amp;tiba=LivePocket-Ticket-%20%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%81%E3%82%B1%E3%83%83%E3%83%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9&amp;hn=www.googleadservices.com&amp;npa=0&amp;pscdl=noapi&amp;auid=1631477761.1760449457&amp;uaa=x86&amp;uab=64&amp;uafvl=Microsoft%2520Edge%3B141.0.3537.71%7CNot%253FA_Brand%3B8.0.0.0%7CChromium%3B141.0.7390.66&amp;uamb=0&amp;uam=&amp;uap=Windows&amp;uapv=19.0.0&amp;uaw=0&amp;_tu=CA&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" src="https://b99.yahoo.co.jp/pagead/conversion_async.js"></script><script async="" src="https://fundingchoicesmessages.google.com/f/AGSKWxXd1IP4jgCRlitnJNGvZTNgfBr41ff_VQk6kuvXixw-SMrgpfxcKMMjFs-0rdxNw4-T1wYpswikbPGQRFH1C_GSwHGL44XdJ0zNd2htmSGAO91iL4tTMSFGvbba8Y2hqmoFhhQBVw==?fccs=W1siQUtzUm9sLXFSZ0lGREQ3MXRwZWluZ2hMakZJSG5pZEpkOEh1aGwzeU1LbnE0UzBfdER1VEIybzdVMF9Ha3picmM3TEdqcnVTb3pTSVdBODlNMXRyT3EzRGRYS01mSDdKQXN2MjlfeVNDOC1ySGNxeERQdG9qQWJwUXBmd1JBODhxaXVxTmEzRDUxVkxBajE1b2Q3TDY2S2Q2LVNTWXd0OTBBPT0iXSxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsWzE3NjA0NTExMTMsMTM3MDAwMDAwXSxudWxsLG51bGwsbnVsbCxbbnVsbCxbN11dLCJodHRwczovL3QubGl2ZXBvY2tldC5qcC9teXRpY2tldC9wdWJsaXNoIixudWxsLFtbOCwiRU1OeUpmaDBFTUEiXSxbOSwiamEiXSxbMjMsIjE3NjA0NDk0NjMiXSxbMTksIjIiXSxbMTcsIlswXSJdLFsyNCwidC5saXZlcG9ja2V0LmpwIl0sWzI5LCJmYWxzZSJdXV0"></script><script async="" src="https://fundingchoicesmessages.google.com/f/AGSKWxWIaQ3_xDhrp4PnNQURf1TB-IBEWgCys3nMFUPssNEos1-m87FojmIe8WELoFlp4xUjZmynhAW6amWHl-xA2_ev0tIWk1j1dHeNAFD7MBhIqAbqo_lUC2YmUgtPPWzcnzxVB6CfEg==?fccs=W1siQUtzUm9sLXFSZ0lGREQ3MXRwZWluZ2hMakZJSG5pZEpkOEh1aGwzeU1LbnE0UzBfdER1VEIybzdVMF9Ha3picmM3TEdqcnVTb3pTSVdBODlNMXRyT3EzRGRYS01mSDdKQXN2MjlfeVNDOC1ySGNxeERQdG9qQWJwUXBmd1JBODhxaXVxTmEzRDUxVkxBajE1b2Q3TDY2S2Q2LVNTWXd0OTBBPT0iXSxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsWzE3NjA0NTExMTMsMjAxMDAwMDAwXSxudWxsLG51bGwsbnVsbCxbbnVsbCxbNyw5XSxudWxsLDIsbnVsbCwiamEiXSwiaHR0cHM6Ly90LmxpdmVwb2NrZXQuanAvbXl0aWNrZXQvcHVibGlzaCIsbnVsbCxbWzgsIkVNTnlKZmgwRU1BIl0sWzksImphIl0sWzIzLCIxNzYwNDQ5NDYzIl0sWzE5LCIyIl0sWzE3LCJbMF0iXSxbMjQsInQubGl2ZXBvY2tldC5qcCJdLFsyOSwiZmFsc2UiXV1d"></script><script async="" src="https://wap.wovn.io/1.js"></script><meta name="google" value="notranslate"><script async="" src="https://fundingchoicesmessages.google.com/f/AGSKWxVzTx45B8ofNJnyrMeR9dwAqTno5ULTCI805igVkpZlUr8alhUAbe2grvwv98zBrneg2JMMDC8R2p1Rt1iuKtq59KPGcLGU4nU4Wpt3zPIerUilvS_CaDpFY9ttVESKeTzI682RPQ==?fccs=W1siQUtzUm9sLXFSZ0lGREQ3MXRwZWluZ2hMakZJSG5pZEpkOEh1aGwzeU1LbnE0UzBfdER1VEIybzdVMF9Ha3picmM3TEdqcnVTb3pTSVdBODlNMXRyT3EzRGRYS01mSDdKQXN2MjlfeVNDOC1ySGNxeERQdG9qQWJwUXBmd1JBODhxaXVxTmEzRDUxVkxBajE1b2Q3TDY2S2Q2LVNTWXd0OTBBPT0iXSxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsWzE3NjA0NTExMTQsNTAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsOSw2XSxudWxsLDIsbnVsbCwiamEiLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCwxXSwiaHR0cHM6Ly90LmxpdmVwb2NrZXQuanAvbXl0aWNrZXQvcHVibGlzaCIsbnVsbCxbWzgsIkVNTnlKZmgwRU1BIl0sWzksImphIl0sWzIzLCIxNzYwNDQ5NDYzIl0sWzE5LCIyIl0sWzE3LCJbMF0iXSxbMjQsInQubGl2ZXBvY2tldC5qcCJdLFsyOSwiZmFsc2UiXV1d"></script></head>
+
+
+<!--[if !IE 8]><!-->
+<body unload="" class="ticket  ui-mobile-viewport ui-overlay-c">
+<!--<![endif]-->
+<!--[if IE 9 ]>
+<body unload="" class="ie9 ">
+<![endif]-->
+<!--[if IE 8 ]>
+<body unload="" class="ie8 ">
+<![endif]-->
+
+
+<!-- 環境判定 -->
+    <!-- 会員登録直後か判定しtrueならdataLayerを表示 -->
+        <!-- ログイン方法別にdataLayerの中身を変更 -->
+        <!-- 指定した環境外の場合はuser_regist及びlogin_methodを0に戻す -->
+
+<div data-role="page" data-url="/myticket/publish?ticket_id=34932925&amp;event_id=499482" tabindex="0" class="ui-page ui-body-c ui-page-active" style="min-height: 686px;">
+<!-- content  -->
+<div data-role="content" class="ui-content" role="main">
+
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P9D7D7"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-P9D7D7');</script>
+    <!-- End Google Tag Manager -->
+
+<div style="display: none; color:white">
+<div class="ui-checkbox"><input type="checkbox" id="refreshCheck"></div>Force Refresh on Back Key Logic
+</div>
+
+<section id="responsiveBaseFrame">
+
+<!-- 共通ヘッダ -->
+
+<header class="print-header">
+    <a href="https://t.livepocket.jp/" rel="external" class="ui-link">
+        <h2 class="logo">
+            <img class="center-block" src="https://t.livepocket.jp/pc_images_v2/pc/header/logo.png" alt="LivePocket-Ticket-" width="230" height="54">
+        </h2>
+    </a>
+</header>
+
+
+<!-- /共通ヘッダ -->
+
+<!-- information メッセージが表示される--><!-- //#17522 fix bug  -->
+<section class="information" id="navigation" style="display:none;">
+  <div>
+    <p>会員登録が完了しました</p>
+  </div>
+</section>
+
+<!-- エラーメッセージが表示される-->
+<!--  <ul class="err-msg" id="error_messages" style="display:none;"></ul>-->
+  <section id="areaContents">
+      <!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="https://t.livepocket.jp/pc_css_v2/pc/publish.css" />
+<![endif]-->
+<!-- SPの場合はSP用のCSSのみ呼び出し -->
+<!-- SP用CSS -->
+<link rel="stylesheet" type="text/css" media="screen and (max-width: 640px)" href="https://t.livepocket.jp/pc_css_v2/sp/publish.css">
+<!-- PC用CSS -->
+<link rel="stylesheet" type="text/css" media="screen and (min-width: 641px)" href="https://t.livepocket.jp/pc_css_v2/pc/publish.css">
+
+<!-- モーダル用CSS -->
+<link rel="stylesheet" type="text/css" media="screen" href="https://t.livepocket.jp/pc_css/modal.css">
+
+<!-- モーダル用JS -->
+<script type="text/javascript" src="https://t.livepocket.jp/javascripts/modal.js"></script>
+
+        <!-- −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−
+        印刷
+        −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−− -->
+                <section class="print">
+            <section class="inner clearfix">
+                <p class="text textRed">このページを印刷してご利用下さい</p>
+                <p class="button"><a href="javascript:void(0)" onclick="window.print();return false;" rel="external" class="ui-link">印刷する</a></p>
+            </section>
+        </section>
+        
+        <!-- −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−
+        詳細
+        −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−− -->
+        <section class="data">
+            <figure class="sp" style="margin-bottom: 20px;"><img src="C:\Users\Admin\Desktop\ライポケ\チケットスマホ川崎A3.gif" width="320"></figure>
+            <figure class="pc"><img src="C:\Users\Admin\Desktop\ライポケ\チケットPC川崎A3.gif" width="750" alt=""></figure>
+            <section class="inner">
+                                <dl class="clearfix">
+                    <dt>備　考</dt>
+                    <dd>※転売や代理でのお申し込みを防止するため、入場時に公的な身分証明書でのご本人様確認を行います。イベント参加時は必ず有効な身分証明証をご持参の上、お申込みの際はお名前（漢字フルネーム）、生年月日、性別等、身分証に記載通り（身分証と異なる場合は、平仮名でのお申込み等は不可）の正確な情報でのご登録をお願いいたします。ニックネームや記号等も不可となります。ご本人様確認にご協力いただけない場合には観覧エリアでの観覧や物販の購入をお断りさせていただきます。<br>
+※抽選の参加はおひとり様1名義のみとなります。複数アカウントによる重複お申込みは抽選対象外となります。<br>
+※複数アカウントによる重複お申込み、代理を立ててのお申込みは禁止となります。各種注意事項をお守りいただけないお客様は以降のイベントで抽選対象から除外させていただきます。<br>
+※ニックネームや記号等お客様の本名（身分証の記載通り）以外でのお申込みは全て抽選対象外となります。<br>
+※お申込み者の個人情報は、（株）WAIWAIが取得します。当該個人情報は、本イベントの運営に使用するほか、当社が公表する利用目的に従って各々使用します。<br>
+※転売/譲渡/代理でのお申込みは禁止となります。<br>
+※各種券の転売行為、お客様同士での交換、譲渡、コピー、偽造は固く禁止致します。発覚した場合、お手持ちの券を回収させて頂き、そのイベントはもちろん今後一切当イベント会場への入場を禁止させて頂きます。<br>
+※「観覧エリア優先入場整理券」の事前配布は枚数に限りがございます。<br>
+※小学生以下のお客様が観覧エリアにて観覧される場合は、保護者様（1名まで）とご入場をお願い致します。その際の「観覧エリア優先入場整理券」は、１枚でご入場頂けます。<br>
+■物販購入■<br>
+整列開始時間<br>
+「観覧エリア優先入場整理券をお持ちの方」<br>
+1~100：11:20~<br>
+101~200：11:40~<br>
+201~300：12:00~<br>
+301~400：12:20~<br>
+401~及び「観覧エリア優先入場整理券」をお持ちでない方：12:30~<br>
+※整列開始時刻より前の整列は禁止です。記載の時間以降に整列をお願いいたします<br>
+※物販の購入は「観覧エリア優先入場整理券」→「観覧エリア優先入場整理券」をお持ちでない方の順にご案内させていただきます。「観覧エリア優先入場整理券」をお持ちの方は番号順でご案内させていただきます。集合時間記載の時間をご確認の上、ご来場ください。</dd>
+                </dl>
+                
+                <p class="button" style="width: auto; text-align: center; margin-top: 10px; margin-left: auto; margin-right: auto;">
+                    <a class="button ui-link" style="display: inline-block; margin-bottom: 3px" href="/help/about" rel="external">入場方法について</a>
+                    <a class="button ui-link" style="display: inline-block; margin-bottom: 3px" href="https://t.livepocket.jp/e/cf4sg" rel="external">イベント詳細</a>
+                </p>
+                
+                            </section>
+        </section>
+
+        <!-- −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−
+        利用上の注意
+        −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−− -->
+        <section class="attention">
+            <section class="inner">
+                <h3>利用上の注意</h3>
+                <section class="text">
+                    <ul class="list-indent">
+                        <li>・本チケットは１枚につき、１名様１回限り有効です</li>
+                                                <li>・指定の日時・期間の記載がある場合はその日時・期間のみ有効です</li>
+                                                <li>・入場時にチケットが表示できない、著しく読み取り・認証操作が困難と判断された場合は入場できません</li>
+                        <li>・携帯電話の紛失・破損、データの消失、および本チケットをダウンロードしたアプリを削除した場合、チケットの再発行はできません</li>
+                                            </ul>
+                </section>
+
+                <!-- Check request is from bellmare app or not -->
+                                <p class="button"><a href="javascript:window.close()" rel="external" class="ui-link">閉じる</a></p>
+                            </section>
+        </section>
+
+        <!-- モーダル表示 -->
+        <div class="modal">
+            <div class="modal_container">
+                <div class="modal_inner">
+                    <div class="modal_content">
+                        <div class="modal_body">
+                            チケットを表示するには<a href="https://t.livepocket.jp/help/term" target="_blank" rel="external" class="ui-link">LivePocket-Ticket-利用規約</a>への同意が必要です
+                        </div>
+                        <nav>
+                            <ul class="bottom-btn-flat-area">
+                                <li><a id="submit-btn" class="btn-flat btn-large center-block btn-gray modalClose" href="#" data-role="none" rel="external"><span id="payment_text">利用規約に同意してチケットを表示する</span></a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>  </section>
+
+<!-- 共通フッタ -->
+<footer id="gfooter" class="gfooter">
+    <div class="footer-pc-category-area">
+        <div class="footer-pc-category-list">
+                <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E9%9F%B3%E6%A5%BD" rel="external" class="ui-link">音楽</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/event/search?tag=%E9%82%A6%E6%A5%BD" rel="external" class="ui-link">邦楽</a>
+                                        <a href="https://t.livepocket.jp/tag/Rock" rel="external" class="ui-link">ロック</a>
+                                        <a href="https://t.livepocket.jp/tag/Pops" rel="external" class="ui-link">ポップス</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%95%E3%82%A7%E3%82%B9" rel="external" class="ui-link">フェス</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=hiphop" rel="external" class="ui-link">hiphop</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=JAZZ" rel="external" class="ui-link">JAZZ</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=K-POP" rel="external" class="ui-link">K-POP</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF" rel="external" class="ui-link">クラシック</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%B4%E3%82%A3%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E7%B3%BB" rel="external" class="ui-link">ヴィジュアル系</a>
+                                        <a href="https://t.livepocket.jp/tag/Other" rel="external" class="ui-link">その他</a>
+                        </div>
+    </li>
+    </ul>
+            <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E6%BC%94%E5%8A%87%E3%83%BB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8" rel="external" class="ui-link">演劇・ステージ</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/event/search?tag=%E8%88%9E%E5%8F%B0" rel="external" class="ui-link">舞台</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E6%BC%94%E5%8A%87" rel="external" class="ui-link">演劇</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E8%90%BD%E8%AA%9E" rel="external" class="ui-link">落語</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E4%BC%9D%E7%B5%B1%E8%8A%B8%E8%83%BD" rel="external" class="ui-link">伝統芸能</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%81%8A%E7%AC%91%E3%81%84" rel="external" class="ui-link">お笑い</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%A2%E3%83%8E%E3%83%9E%E3%83%8D" rel="external" class="ui-link">モノマネ</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%80%E3%83%B3%E3%82%B9" rel="external" class="ui-link">ダンス</a>
+                                        <a href="https://t.livepocket.jp/tag/Other" rel="external" class="ui-link">その他</a>
+                        </div>
+    </li>
+    </ul>
+            <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E3%83%95%E3%82%A1%E3%83%B3%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB" rel="external" class="ui-link">ファン・アイドル</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/event/search?tag=%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0" rel="external" class="ui-link">ファンミーティング</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E6%8F%A1%E6%89%8B%E4%BC%9A" rel="external" class="ui-link">握手会</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A" rel="external" class="ui-link">展覧会</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E6%92%AE%E5%BD%B1%E4%BC%9A" rel="external" class="ui-link">撮影会</a>
+                                        <a href="https://t.livepocket.jp/tag/Talk" rel="external" class="ui-link">トークショー</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%A9%E3%82%A4%E3%83%96" rel="external" class="ui-link">ライブ</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%B0%E3%83%83%E3%82%BA" rel="external" class="ui-link">グッズ</a>
+                                        <a href="https://t.livepocket.jp/tag/Other" rel="external" class="ui-link">その他</a>
+                        </div>
+    </li>
+    </ul>
+            <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%A9" rel="external" class="ui-link">アニメ・キャラ</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/tag/CollaboCafe" rel="external" class="ui-link">コラボカフェ</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A" rel="external" class="ui-link">展覧会</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%B0%E3%83%83%E3%82%BA" rel="external" class="ui-link">グッズ</a>
+                                        <a href="https://t.livepocket.jp/tag/Other" rel="external" class="ui-link">その他</a>
+                        </div>
+    </li>
+    </ul>
+            <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" rel="external" class="ui-link">スポーツ</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/event/search?tag=%E9%87%8E%E7%90%83" rel="external" class="ui-link">野球</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC" rel="external" class="ui-link">サッカー</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC" rel="external" class="ui-link">ラグビー</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB" rel="external" class="ui-link">バレーボール</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%97%E3%83%AD%E3%83%AC%E3%82%B9" rel="external" class="ui-link">プロレス</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%B0" rel="external" class="ui-link">ボクシング</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E6%A0%BC%E9%97%98%E6%8A%80" rel="external" class="ui-link">格闘技</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=e%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" rel="external" class="ui-link">eスポーツ</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%8F%E3%83%B3%E3%83%89%E3%83%9C%E3%83%BC%E3%83%AB" rel="external" class="ui-link">ハンドボール</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" rel="external" class="ui-link">バスケットボール</a>
+                                        <a href="https://t.livepocket.jp/tag/Other" rel="external" class="ui-link">その他</a>
+                        </div>
+    </li>
+    </ul>
+            <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E8%B6%A3%E5%91%B3%E3%83%BB%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%83%BB%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC" rel="external" class="ui-link">趣味・カルチャー・レジャー</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/event/search?tag=%E3%83%A8%E3%82%AC%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9" rel="external" class="ui-link">ヨガ・フィットネス</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%B8%E3%83%A0" rel="external" class="ui-link">ジム</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E5%8B%95%E7%89%A9%E5%9C%92" rel="external" class="ui-link">動物園</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E6%B0%B4%E6%97%8F%E9%A4%A8" rel="external" class="ui-link">水族館</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0" rel="external" class="ui-link">カードゲーム</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%B2%E3%83%BC%E3%83%A0" rel="external" class="ui-link">ゲーム</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E9%87%A3%E3%82%8A" rel="external" class="ui-link">釣り</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E8%84%B1%E5%87%BA%E3%82%B2%E3%83%BC%E3%83%A0" rel="external" class="ui-link">脱出ゲーム</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%80%E3%83%B3%E3%82%B9" rel="external" class="ui-link">ダンス</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E7%BE%8E%E5%AE%B9" rel="external" class="ui-link">ファッション・美容</a>
+                                        <a href="https://t.livepocket.jp/tag/Cosplay" rel="external" class="ui-link">コスプレ</a>
+                                        <a href="https://t.livepocket.jp/tag/Other" rel="external" class="ui-link">その他</a>
+                        </div>
+    </li>
+    </ul>
+            <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88" rel="external" class="ui-link">展覧会・イベント</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/event/search?tag=%E7%89%A9%E7%94%A3%E5%B1%95" rel="external" class="ui-link">物産展</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A" rel="external" class="ui-link">展覧会</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%81%8A%E7%A5%AD%E3%82%8A" rel="external" class="ui-link">お祭り</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A" rel="external" class="ui-link">花火大会</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E8%A1%97%E3%82%B3%E3%83%B3" rel="external" class="ui-link">街コン</a>
+                                        <a href="https://t.livepocket.jp/tag/Seminar" rel="external" class="ui-link">セミナー</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E9%A3%9F%E3%83%95%E3%82%A7%E3%82%B9" rel="external" class="ui-link">食フェス</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%A2%E3%83%BC%E3%83%88" rel="external" class="ui-link">アート</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E5%AD%A6%E5%9C%92%E7%A5%AD" rel="external" class="ui-link">学園祭</a>
+                                        <a href="https://t.livepocket.jp/tag/Talk" rel="external" class="ui-link">トークショー</a>
+                                        <a href="https://t.livepocket.jp/tag/Other" rel="external" class="ui-link">その他</a>
+                        </div>
+    </li>
+    </ul>
+            </div>
+    </div>
+    <div class="footer-sp-category-area" id="category-section">
+        <div class="footer-sp-category-list">
+                <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E9%9F%B3%E6%A5%BD" rel="external" class="ui-link">音楽</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/event/search?tag=%E9%82%A6%E6%A5%BD" rel="external" class="ui-link">邦楽</a>
+                                        <a href="https://t.livepocket.jp/tag/Rock" rel="external" class="ui-link">ロック</a>
+                                        <a href="https://t.livepocket.jp/tag/Pops" rel="external" class="ui-link">ポップス</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%95%E3%82%A7%E3%82%B9" rel="external" class="ui-link">フェス</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=hiphop" rel="external" class="ui-link">hiphop</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=JAZZ" rel="external" class="ui-link">JAZZ</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=K-POP" rel="external" class="ui-link">K-POP</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF" rel="external" class="ui-link">クラシック</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%B4%E3%82%A3%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E7%B3%BB" rel="external" class="ui-link">ヴィジュアル系</a>
+                                        <a href="https://t.livepocket.jp/tag/Other" rel="external" class="ui-link">その他</a>
+                        </div>
+    </li>
+    </ul>
+            <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E6%BC%94%E5%8A%87%E3%83%BB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8" rel="external" class="ui-link">演劇・ステージ</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/event/search?tag=%E8%88%9E%E5%8F%B0" rel="external" class="ui-link">舞台</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E6%BC%94%E5%8A%87" rel="external" class="ui-link">演劇</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E8%90%BD%E8%AA%9E" rel="external" class="ui-link">落語</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E4%BC%9D%E7%B5%B1%E8%8A%B8%E8%83%BD" rel="external" class="ui-link">伝統芸能</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%81%8A%E7%AC%91%E3%81%84" rel="external" class="ui-link">お笑い</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%A2%E3%83%8E%E3%83%9E%E3%83%8D" rel="external" class="ui-link">モノマネ</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%80%E3%83%B3%E3%82%B9" rel="external" class="ui-link">ダンス</a>
+                                        <a href="https://t.livepocket.jp/tag/Other" rel="external" class="ui-link">その他</a>
+                        </div>
+    </li>
+    </ul>
+            <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E3%83%95%E3%82%A1%E3%83%B3%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB" rel="external" class="ui-link">ファン・アイドル</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/event/search?tag=%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0" rel="external" class="ui-link">ファンミーティング</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E6%8F%A1%E6%89%8B%E4%BC%9A" rel="external" class="ui-link">握手会</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A" rel="external" class="ui-link">展覧会</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E6%92%AE%E5%BD%B1%E4%BC%9A" rel="external" class="ui-link">撮影会</a>
+                                        <a href="https://t.livepocket.jp/tag/Talk" rel="external" class="ui-link">トークショー</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%A9%E3%82%A4%E3%83%96" rel="external" class="ui-link">ライブ</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%B0%E3%83%83%E3%82%BA" rel="external" class="ui-link">グッズ</a>
+                                        <a href="https://t.livepocket.jp/tag/Other" rel="external" class="ui-link">その他</a>
+                        </div>
+    </li>
+    </ul>
+            <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%A9" rel="external" class="ui-link">アニメ・キャラ</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/tag/CollaboCafe" rel="external" class="ui-link">コラボカフェ</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A" rel="external" class="ui-link">展覧会</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%B0%E3%83%83%E3%82%BA" rel="external" class="ui-link">グッズ</a>
+                                        <a href="https://t.livepocket.jp/tag/Other" rel="external" class="ui-link">その他</a>
+                        </div>
+    </li>
+    </ul>
+            <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" rel="external" class="ui-link">スポーツ</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/event/search?tag=%E9%87%8E%E7%90%83" rel="external" class="ui-link">野球</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC" rel="external" class="ui-link">サッカー</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC" rel="external" class="ui-link">ラグビー</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB" rel="external" class="ui-link">バレーボール</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%97%E3%83%AD%E3%83%AC%E3%82%B9" rel="external" class="ui-link">プロレス</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%B0" rel="external" class="ui-link">ボクシング</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E6%A0%BC%E9%97%98%E6%8A%80" rel="external" class="ui-link">格闘技</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=e%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84" rel="external" class="ui-link">eスポーツ</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%8F%E3%83%B3%E3%83%89%E3%83%9C%E3%83%BC%E3%83%AB" rel="external" class="ui-link">ハンドボール</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" rel="external" class="ui-link">バスケットボール</a>
+                                        <a href="https://t.livepocket.jp/tag/Other" rel="external" class="ui-link">その他</a>
+                        </div>
+    </li>
+    </ul>
+            <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E8%B6%A3%E5%91%B3%E3%83%BB%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%83%BB%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC" rel="external" class="ui-link">趣味・カルチャー・レジャー</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/event/search?tag=%E3%83%A8%E3%82%AC%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9" rel="external" class="ui-link">ヨガ・フィットネス</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%B8%E3%83%A0" rel="external" class="ui-link">ジム</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E5%8B%95%E7%89%A9%E5%9C%92" rel="external" class="ui-link">動物園</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E6%B0%B4%E6%97%8F%E9%A4%A8" rel="external" class="ui-link">水族館</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0" rel="external" class="ui-link">カードゲーム</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%B2%E3%83%BC%E3%83%A0" rel="external" class="ui-link">ゲーム</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E9%87%A3%E3%82%8A" rel="external" class="ui-link">釣り</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E8%84%B1%E5%87%BA%E3%82%B2%E3%83%BC%E3%83%A0" rel="external" class="ui-link">脱出ゲーム</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%80%E3%83%B3%E3%82%B9" rel="external" class="ui-link">ダンス</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E7%BE%8E%E5%AE%B9" rel="external" class="ui-link">ファッション・美容</a>
+                                        <a href="https://t.livepocket.jp/tag/Cosplay" rel="external" class="ui-link">コスプレ</a>
+                                        <a href="https://t.livepocket.jp/tag/Other" rel="external" class="ui-link">その他</a>
+                        </div>
+    </li>
+    </ul>
+            <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88" rel="external" class="ui-link">展覧会・イベント</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/event/search?tag=%E7%89%A9%E7%94%A3%E5%B1%95" rel="external" class="ui-link">物産展</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A" rel="external" class="ui-link">展覧会</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%81%8A%E7%A5%AD%E3%82%8A" rel="external" class="ui-link">お祭り</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A" rel="external" class="ui-link">花火大会</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E8%A1%97%E3%82%B3%E3%83%B3" rel="external" class="ui-link">街コン</a>
+                                        <a href="https://t.livepocket.jp/tag/Seminar" rel="external" class="ui-link">セミナー</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E9%A3%9F%E3%83%95%E3%82%A7%E3%82%B9" rel="external" class="ui-link">食フェス</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%A2%E3%83%BC%E3%83%88" rel="external" class="ui-link">アート</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E5%AD%A6%E5%9C%92%E7%A5%AD" rel="external" class="ui-link">学園祭</a>
+                                        <a href="https://t.livepocket.jp/tag/Talk" rel="external" class="ui-link">トークショー</a>
+                                        <a href="https://t.livepocket.jp/tag/Other" rel="external" class="ui-link">その他</a>
+                        </div>
+    </li>
+    </ul>
+            </div>
+    </div>
+    <ul id="gfooter_links_pc" class="gfooter_links pc clearfix">
+        <li><a href="https://t.livepocket.jp/regist_navigation/user" rel="external" class="ui-link">LivePocket-Ticket-とは?</a><span>|</span></li>
+        <li><a href="https://t.livepocket.jp/help/about" rel="external" class="ui-link">LivePocket-Ticket-の使い方</a><span>|</span></li>
+        <li><a href="https://t.livepocket.jp/owner/" rel="external" class="ui-link">LivePocket-Ticket-でチケットを販売する</a></li><br>
+        <li><a href="https://t.livepocket.jp/sell_commission" rel="external" class="ui-link">LivePocketの価格・利用料</a><span>|</span></li>
+        <li><a href="https://t.livepocket.jp/help/term" target="_blank" rel="external" class="ui-link">利用規約</a><span>|</span></li>
+        <li><a href="https://t.livepocket.jp/help/commercial" rel="external" class="ui-link">特定商取引法に関する記載</a><span>|</span></li>
+        <li><a href="https://t.livepocket.jp/help/faq" rel="external" class="ui-link">FAQ</a></li>
+    </ul>
+    <ul id="gfooter_links_sp" class="gfooter_links sp clearfix">
+        <li><a href="https://t.livepocket.jp/regist_navigation/user" rel="external" class="ui-link">LivePocket-Ticket-とは?</a></li>
+        <li><a href="https://t.livepocket.jp/help/about" rel="external" class="ui-link">LivePocket-Ticket-の使い方</a></li>
+        <li><a href="https://t.livepocket.jp/sell_tickets?acroot=foot-res-new_s_o_n" rel="external" class="ui-link">LivePocket-Ticket-でチケットを販売する</a></li>
+        <li><a href="https://t.livepocket.jp/sell_commission" rel="external" class="ui-link">LivePocketの価格・利用料</a></li>
+        <li><a href="https://t.livepocket.jp/help/term" target="_blank" rel="external" class="ui-link">利用規約</a></li>
+        <li><a href="https://t.livepocket.jp/help/commercial" rel="external" class="ui-link">特定商取引法に関する記載</a></li>
+        <li><a href="https://t.livepocket.jp/help/faq" rel="external" class="ui-link">FAQ</a></li>
+    </ul>
+    <ul class="gfooter_sns">
+        <li class="twitter"><a onclick="window.open('https://twitter.com/livepocket', 'share', ['resizable=yes', 'toolbar=yes', 'menubar=yes', 'scrollbars=yes', 'status=yes'].join(','));" href="javascript:void(0);" title="twitter" rel="external" class="ui-link"></a></li>
+        <li class="facebook"><a onclick="window.open('https://www.facebook.com/livepocketofficial', 'facebookofficial', ['resizable=yes', 'toolbar=yes', 'menubar=yes', 'scrollbars=yes', 'status=yes'].join(','));" href="javascript:void(0);" title="facebook" rel="external" class="ui-link"></a></li>
+        <li class="instagram"><a onclick="window.open('https://www.instagram.com/livepocketticket/', ['resizable=yes', 'toolbar=yes', 'menubar=yes', 'scrollbars=yes', 'status=yes'].join(','));" href="javascript:void(0);" title="instagram" rel="external" class="ui-link"></a></li>
+    </ul>
+    <div class="gfooter_terms">
+        <p>掲載されている全てのコンテンツについて管理者の承諾を得ず、無断で複写・複製・転送することは 固く禁じています。</p>
+        <p>「LivePocket」はLivePocket株式会社の登録商標です。（登録第5600161号）</p>
+        <p>Copyright<span class="icon-copyright"> © </span>LivePocket All Rights Reserved.</p>
+    </div>
+</footer>
+<!-- /共通フッタ -->
+
+<!-- mypage  -->
+
+<script type="text/javascript">
+function logout() {
+    if (window.confirm('ログアウトします\nよろしいですか？\n\nYou are logging out. Is this alright?')) {
+        showProgress('ログアウトしています...');
+        API.post('sessions/destroy', function(data) {
+            //document.location.reload();
+            location.href = '/';
+            hideProgress();
+        });
+    }
+}
+
+common_count();
+</script>
+
+<script type="text/javascript">
+        </script>
+
+</section>
+
+<!--[if lt IE 9]><script type="text/javascript" src="https://t.livepocket.jp/pc_css_v2/htc/PIE.js"></script><![endif]-->
+<script>
+$(function() {
+  if (window.PIE) {
+    $('.js-pie').each(function() {
+      PIE.attach(this);
+    });
+  }
+});
+</script>
+
+    <script type="text/javascript">
+        (function () {
+            var tagjs = document.createElement("script");
+            var s = document.getElementsByTagName("script")[0];
+            tagjs.async = true;
+            tagjs.src = "//s.yjtag.jp/tag.js#site=3gYMH3k";
+            s.parentNode.insertBefore(tagjs, s);
+        }());
+    </script>
+    <noscript>
+        <iframe src="//b.yjtag.jp/iframe?c=3gYMH3k" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+    </noscript>
+
+</div>
+</div><ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;" data-ad-status="unfilled"><div id="aswift_0_host" style="border: none; height: 0px; width: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block;"><iframe id="aswift_0" name="aswift_0" browsingtopics="true" style="left:0;position:absolute;top:0;border:0;width:undefinedpx;height:undefinedpx;min-height:auto;max-height:none;min-width:auto;max-width:none;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2166064557737318&amp;output=html&amp;adk=1812271804&amp;adf=3025194257&amp;lmt=1760451112&amp;plaf=1%3A2%2C2%3A2%2C7%3A2&amp;plat=1%3A128%2C2%3A128%2C3%3A128%2C4%3A128%2C8%3A128%2C9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1081344%2C32%3A32%2C41%3A32%2C42%3A32&amp;format=0x0&amp;url=https%3A%2F%2Ft.livepocket.jp%2Fmyticket%2Fpublish%3Fticket_id%3D34932925%26event_id%3D499482&amp;pra=5&amp;wgl=1&amp;aihb=0&amp;asro=0&amp;aifxl=29_18~30_19&amp;aiapm=0.1542&amp;aiapmd=0.1423&amp;aiapmi=0.16&amp;aiapmid=1&amp;aiact=0.5423&amp;aiactd=0.7&amp;aicct=0.7&amp;aicctd=0.5799&amp;ailct=0.5849&amp;ailctd=0.65&amp;aimart=4&amp;aimartd=4&amp;uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTQxLjAuMzUzNy43MSIsbnVsbCwwLG51bGwsIjY0IixbWyJNaWNyb3NvZnQgRWRnZSIsIjE0MS4wLjM1MzcuNzEiXSxbIk5vdD9BX0JyYW5kIiwiOC4wLjAuMCJdLFsiQ2hyb21pdW0iLCIxNDEuMC43MzkwLjY2Il1dLDBd&amp;abgtt=13&amp;dt=1760451112749&amp;bpp=4&amp;bdt=205&amp;idt=34&amp;shv=r20251009&amp;mjsv=m202510090101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3Dc342cb76c31d7ed8%3AT%3D1760449463%3ART%3D1760451021%3AS%3DALNI_MbmT9QEVF92w43UEbvn-DsZkk64SQ&amp;gpic=UID%3D000011a36d815c35%3AT%3D1760449463%3ART%3D1760451021%3AS%3DALNI_MYfTFhNnCIb5RyE_cS11d7Xl198lg&amp;eo_id_str=ID%3Db6e7f4b99daa2320%3AT%3D1760449463%3ART%3D1760451021%3AS%3DAA-AfjagmzOUAga2WzgPusfO4TNL&amp;nras=1&amp;correlator=7979479690931&amp;frm=20&amp;pv=2&amp;u_tz=540&amp;u_his=1&amp;u_h=864&amp;u_w=1536&amp;u_ah=816&amp;u_aw=1536&amp;u_cd=24&amp;u_sd=1.25&amp;dmc=8&amp;adx=-12245933&amp;ady=-12245933&amp;biw=1211&amp;bih=686&amp;scr_x=0&amp;scr_y=0&amp;eid=95373554%2C31095218%2C95372729%2C95368094&amp;oid=2&amp;pvsid=3627506307376898&amp;tmod=2039514782&amp;uas=0&amp;nvt=1&amp;fsapi=1&amp;ref=https%3A%2F%2Ft.livepocket.jp%2Fmyticket&amp;fc=1920&amp;brdim=77%2C8%2C77%2C8%2C1536%2C0%2C1249%2C808%2C1226%2C686&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=32768&amp;bc=31&amp;bz=1.02&amp;td=1&amp;tdf=2&amp;psd=W251bGwsbnVsbCxudWxsLDNd&amp;nt=1&amp;ifi=1&amp;uci=a!1&amp;fsb=1&amp;dtd=49" data-google-container-id="a!1" tabindex="0" title="Advertisement" aria-label="Advertisement" data-load-complete="true"></iframe></div></ins>
+
+
+
+
+
+<div class="ui-loader ui-corner-all ui-body-a ui-loader-default ui-loader-fakefix" style="top: 343.8px; display: none;"><span class="ui-icon ui-icon-loading"></span><h1>loading</h1></div><iframe name="googlefcPresent" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><div style="display: none; visibility: hidden;"><script>(function(){var a=window._fbq||(window._fbq=[]);if(!a.loaded){var b=document.createElement("script");b.async=!0;b.src="//connect.facebook.net/en_US/fbds.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c);a.loaded=!0}a.push(["addPixelId","1576461065967241"])})();window._fbq=window._fbq||[];window._fbq.push(["track","PixelInitialized",{}]);</script>
+<noscript></noscript></div><div style="display: none; visibility: hidden;"><script type="text/javascript">(function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.async=!0;a.src="//s.yjtag.jp/tag.js#site\x3dQdCbsCc";b.parentNode.insertBefore(a,b)})();</script>
+<noscript></noscript>
+</div><div style="display: none; visibility: hidden;"><script src="//kitchen.juicer.cc/?color=WTmSvBBdtO8=" async="null"></script></div><div style="display: none; visibility: hidden;"><script async="null" src="https://s.yimg.jp/images/listing/tool/cv/ytag.js"></script>
+<script>window.yjDataLayer=window.yjDataLayer||[];function ytag(){yjDataLayer.push(arguments)}ytag({type:"yjad_retargeting",config:{yahoo_retargeting_id:"CJQIHT2135",yahoo_retargeting_label:"",yahoo_retargeting_page_type:"",yahoo_retargeting_items:[{item_id:"",category_id:"",price:"",quantity:""}]}});</script></div><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><div style="display: none; visibility: hidden;"><script async="null" src="https://s.yimg.jp/images/listing/tool/cv/ytag.js"></script>
+<script>window.yjDataLayer=window.yjDataLayer||[];function ytag(){yjDataLayer.push(arguments)}ytag({type:"yss_retargeting",config:{yahoo_ss_retargeting_id:"1000303892",yahoo_sstag_custom_params:{}}});</script></div><img src="https://t.co/1/i/adsct?bci=4&amp;dv=Asia%2FTokyo%26ja%2Cen%2Cen-GB%2Cen-US%26Google%20Inc.%26Win32%26255%261536%26864%268%2624%261536%26816%260%26na&amp;eci=3&amp;event=%7B%7D&amp;event_id=250e937f-d292-4ede-bc46-05231487d5a7&amp;integration=gtm&amp;p_id=Twitter&amp;p_user_id=0&amp;pl_id=5485c75c-d19a-496c-98e6-06b83065f440&amp;pt=LivePocket-Ticket-%20%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%81%E3%82%B1%E3%83%83%E3%83%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9&amp;tw_document_href=https%3A%2F%2Ft.livepocket.jp%2Fmyticket%2Fpublish%3Fticket_id%3D34932925%26event_id%3D499482&amp;tw_iframe_status=0&amp;txn_id=o4i3k&amp;type=javascript&amp;version=2.3.34" height="1" width="1" style="display: none;"><img src="https://analytics.twitter.com/1/i/adsct?bci=4&amp;dv=Asia%2FTokyo%26ja%2Cen%2Cen-GB%2Cen-US%26Google%20Inc.%26Win32%26255%261536%26864%268%2624%261536%26816%260%26na&amp;eci=3&amp;event=%7B%7D&amp;event_id=250e937f-d292-4ede-bc46-05231487d5a7&amp;integration=gtm&amp;p_id=Twitter&amp;p_user_id=0&amp;pl_id=5485c75c-d19a-496c-98e6-06b83065f440&amp;pt=LivePocket-Ticket-%20%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%81%E3%82%B1%E3%83%83%E3%83%88%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9&amp;tw_document_href=https%3A%2F%2Ft.livepocket.jp%2Fmyticket%2Fpublish%3Fticket_id%3D34932925%26event_id%3D499482&amp;tw_iframe_status=0&amp;txn_id=o4i3k&amp;type=javascript&amp;version=2.3.34" height="1" width="1" style="display: none;"><script src="https://kitchen.juicer.cc/core/?color=WTmSvBBdtO8=&amp;version=2.3.3"></script><script src="https://cdn.kitchen.juicer.cc/scripts/stack-driver-errors/1.0.0/stack-driver-errors.min.js"></script><iframe name="__tcfapiLocator" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcInactive" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><iframe name="googlefcLoaded" src="about:blank" style="display: none; width: 0px; height: 0px; border: none; z-index: -1000; left: -1000px; top: -1000px;"></iframe><script src="https://dmp.im-apps.net/sdk/im-uid.js"></script><script src="https://kitchen.juicer.cc/t/?color=WTmSvBBdtO8=&amp;version=2.3.3" async=""></script><script src="https://kitchen.juicer.cc/activity/set/?color=WTmSvBBdtO8=&amp;peachId=0863097d-6ed3-40f5-acba-eff8068e4a14&amp;timestamp=1760451113094&amp;version=2.3.3" async=""></script><div id="wovn-detect-plugin" wovn-ignore="" style="visibility: hidden !important; position: fixed !important;"><div>日本語</div><div>English</div></div><div style="z-index:2147483646;position:fixed;display:none;top:0;right:0;bottom:0;left:0;background:transparent;pointer-events: auto;" class="wovn-click-catcher"></div><div id="wovn-translate-widget" wovn="" data-ready="true" class="wovn--position-bottom wovn--position-right type-default wovn--color wovn--color-default hide-logo wovn-is-visible"><div class="wovn-lang-container"> <ul class="wovn-lang-list"><li class="wovn-switch selected" data-value="ja">日本語</li><li class="wovn-switch" data-value="en">English</li></ul> <a class="wovn-logo wovn-logo--big" href="http://wovn.io" target="_blank" aria-label="WOVN.io | Make your website multilingual"> <svg style="max-height:10px;max-width:61px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 396.36 64.73"><circle class="color-dot" cx="322.58" cy="53.99" r="10"></circle><path class="color-letter" id="letter-small-i" d="M343.84,30.31h9.42a1.16,1.16,0,0,1,1.18,1.18V61.79A1.16,1.16,0,0,1,353.26,63h-9.42a1.16,1.16,0,0,1-1.18-1.18V31.48C342.52,30.89,343.11,30.31,343.84,30.31Z"></path><path id="letter-small-o" class="color-letter" d="M379,29.28a17.36,17.36,0,1,0,17.36,17.36A17.39,17.39,0,0,0,379,29.28Zm0,24.57a7.21,7.21,0,1,1,7.21-7.21A7.22,7.22,0,0,1,379,53.84Z"></path><path id="letter-big-W" class="color-letter" d="M93.48,1.18H78.18a2,2,0,0,0-1.91,1.47L66.7,34.42,56.11,2.35A2.06,2.06,0,0,0,54.34,1H41.4a1.9,1.9,0,0,0-1.77,1.32L29,34.42,19.48,2.65a2,2,0,0,0-1.91-1.47H1.68a1.54,1.54,0,0,0-1.32.74A1.81,1.81,0,0,0,.06,3.38L19.77,62.67A2.06,2.06,0,0,0,21.54,64H34.63a1.85,1.85,0,0,0,1.77-1.32L47.58,30.6,58.76,62.67A2.06,2.06,0,0,0,60.52,64H73.61a1.9,1.9,0,0,0,1.77-1.32L95.09,3.38a1.4,1.4,0,0,0-.29-1.47A1.54,1.54,0,0,0,93.48,1.18Z"></path><path id="letter-big-O" class="color-letter" d="M132,0C113.19,0,98.48,14.27,98.48,32.51s14.71,32.22,33.39,32.22,33.54-14.27,33.54-32.51S150.7,0,132,0Zm14.56,32.51C146.58,41.34,140.26,48,132,48s-14.71-6.77-14.71-15.74,6.18-15.45,14.56-15.45S146.58,23.54,146.58,32.51Z"></path><path id="letter-big-V" class="color-letter" d="M232.06,1.18H215.73a2.09,2.09,0,0,0-1.91,1.32L201,38,188.22,2.5a2.09,2.09,0,0,0-1.91-1.32H169.53a1.54,1.54,0,0,0-1.32.74,1.58,1.58,0,0,0-.15,1.62L191.9,62.82A1.91,1.91,0,0,0,193.66,64h14.12a1.91,1.91,0,0,0,1.77-1.18L233.38,3.53a1.74,1.74,0,0,0-.15-1.47C233,1.44,232.65,1.18,232.06,1.18Z"></path><path id="letter-big-N" class="color-letter" d="M301.05,1.18h-15.3a1.47,1.47,0,0,0-1.47,1.47V32.37L261,1.91a1.81,1.81,0,0,0-1.47-.74H245a1.47,1.47,0,0,0-1.47,1.47V62.52A1.47,1.47,0,0,0,245,64h15.45a1.47,1.47,0,0,0,1.47-1.47V31.63L286,63.26a1.81,1.81,0,0,0,1.47.74h13.53a1.47,1.47,0,0,0,1.47-1.47V2.65A1.47,1.47,0,0,0,301.05,1.18Z"></path></svg> </a> </div> <div class="wovn-lang-selector"> <div class="wovn-lang-selector-links"> <svg id="wovn-logo-planet" style="max-width:20px;max-height:20px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M14.2588,19.6699 C15.1168,18.6319 15.8108,17.4539 16.2858,16.1669 L18.8168,16.1669 C17.7908,17.8369 16.1768,19.1039 14.2588,19.6699 Z M5.1838,16.1669 L7.7138,16.1669 C8.1898,17.4539 8.8828,18.6319 9.7408,19.6699 C7.8228,19.1039 6.2088,17.8369 5.1838,16.1669 Z M9.7408,4.3299 C8.8458,5.4119 8.1388,6.6489 7.6618,7.9999 L5.0818,7.9999 C6.0998,6.2469 7.7598,4.9149 9.7408,4.3299 Z M18.9178,7.9999 L16.3378,7.9999 C15.8618,6.6489 15.1548,5.4119 14.2588,4.3299 C16.2398,4.9149 17.9008,6.2469 18.9178,7.9999 Z M16.8488,9.9999 L19.7368,9.9999 C19.9028,10.6409 19.9998,11.3089 19.9998,11.9999 C19.9998,12.7519 19.8888,13.4769 19.6938,14.1669 L16.8178,14.1669 C16.9468,13.4619 17.0348,12.7429 17.0348,11.9999 C17.0348,11.3159 16.9578,10.6519 16.8488,9.9999 Z M14.1938,7.9999 L9.8068,7.9999 C10.3238,6.8139 11.0648,5.7249 11.9998,4.8069 C12.9358,5.7249 13.6758,6.8139 14.1938,7.9999 Z M3.9998,11.9999 C3.9998,11.3089 4.0978,10.6409 4.2638,9.9999 L7.1518,9.9999 C7.0418,10.6519 6.9648,11.3159 6.9648,11.9999 C6.9648,12.7429 7.0538,13.4619 7.1828,14.1669 L4.3068,14.1669 C4.1118,13.4769 3.9998,12.7519 3.9998,11.9999 Z M9.2108,14.1669 C9.0538,13.4599 8.9648,12.7349 8.9648,11.9999 C8.9648,11.3229 9.0348,10.6529 9.1688,9.9999 L14.8308,9.9999 C14.9648,10.6529 15.0348,11.3229 15.0348,11.9999 C15.0348,12.7349 14.9458,13.4599 14.7888,14.1669 L9.2108,14.1669 Z M9.8868,16.1669 L14.1128,16.1669 C13.5998,17.2879 12.8918,18.3189 11.9998,19.1929 C11.1088,18.3189 10.4008,17.2879 9.8868,16.1669 Z M1.9998,11.9999 C1.9998,17.5229 6.4778,21.9999 11.9998,21.9999 C17.5228,21.9999 21.9998,17.5229 21.9998,11.9999 C21.9998,6.4769 17.5228,1.9999 11.9998,1.9999 C6.4778,1.9999 1.9998,6.4769 1.9998,11.9999 Z"></path></svg> <span class="wovn-current-lang">日本語</span> <a class="wovn-logo wovn-logo--small" href="http://wovn.io" target="_blank" aria-label="WOVN.io | Make your website multilingual">  <svg style="max-width:56px;max-height:8px" id="wovn-logo--default" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 396.36 64.73"><circle class="color-dot" cx="322.58" cy="53.99" r="10"></circle><path class="color-letter" id="letter-small-i" d="M343.84,30.31h9.42a1.16,1.16,0,0,1,1.18,1.18V61.79A1.16,1.16,0,0,1,353.26,63h-9.42a1.16,1.16,0,0,1-1.18-1.18V31.48C342.52,30.89,343.11,30.31,343.84,30.31Z"></path><path id="letter-small-o" class="color-letter" d="M379,29.28a17.36,17.36,0,1,0,17.36,17.36A17.39,17.39,0,0,0,379,29.28Zm0,24.57a7.21,7.21,0,1,1,7.21-7.21A7.22,7.22,0,0,1,379,53.84Z"></path><path id="letter-big-W" class="color-letter" d="M93.48,1.18H78.18a2,2,0,0,0-1.91,1.47L66.7,34.42,56.11,2.35A2.06,2.06,0,0,0,54.34,1H41.4a1.9,1.9,0,0,0-1.77,1.32L29,34.42,19.48,2.65a2,2,0,0,0-1.91-1.47H1.68a1.54,1.54,0,0,0-1.32.74A1.81,1.81,0,0,0,.06,3.38L19.77,62.67A2.06,2.06,0,0,0,21.54,64H34.63a1.85,1.85,0,0,0,1.77-1.32L47.58,30.6,58.76,62.67A2.06,2.06,0,0,0,60.52,64H73.61a1.9,1.9,0,0,0,1.77-1.32L95.09,3.38a1.4,1.4,0,0,0-.29-1.47A1.54,1.54,0,0,0,93.48,1.18Z"></path><path id="letter-big-O" class="color-letter" d="M132,0C113.19,0,98.48,14.27,98.48,32.51s14.71,32.22,33.39,32.22,33.54-14.27,33.54-32.51S150.7,0,132,0Zm14.56,32.51C146.58,41.34,140.26,48,132,48s-14.71-6.77-14.71-15.74,6.18-15.45,14.56-15.45S146.58,23.54,146.58,32.51Z"></path><path id="letter-big-V" class="color-letter" d="M232.06,1.18H215.73a2.09,2.09,0,0,0-1.91,1.32L201,38,188.22,2.5a2.09,2.09,0,0,0-1.91-1.32H169.53a1.54,1.54,0,0,0-1.32.74,1.58,1.58,0,0,0-.15,1.62L191.9,62.82A1.91,1.91,0,0,0,193.66,64h14.12a1.91,1.91,0,0,0,1.77-1.18L233.38,3.53a1.74,1.74,0,0,0-.15-1.47C233,1.44,232.65,1.18,232.06,1.18Z"></path><path id="letter-big-N" class="color-letter" d="M301.05,1.18h-15.3a1.47,1.47,0,0,0-1.47,1.47V32.37L261,1.91a1.81,1.81,0,0,0-1.47-.74H245a1.47,1.47,0,0,0-1.47,1.47V62.52A1.47,1.47,0,0,0,245,64h15.45a1.47,1.47,0,0,0,1.47-1.47V31.63L286,63.26a1.81,1.81,0,0,0,1.47.74h13.53a1.47,1.47,0,0,0,1.47-1.47V2.65A1.47,1.47,0,0,0,301.05,1.18Z"></path></svg> </a> </div> <span id="translated-by-machine">Translated by AI</span> </div> <style>#wovn-translate-widget[wovn] { display: none; }</style></div><iframe id="wovn-stallion-iframe" style="display: none" src="https://j.wovn.io/stallion_loader?token=P4kwS"></iframe><script src="https://kitchen.juicer.cc/function/popup-core/?color=WTmSvBBdtO8=&amp;version=2.3.3" async=""></script><script src="https://kitchen.juicer.cc/collabo?color=WTmSvBBdtO8=&amp;version=2.3.3" async=""></script><script src="https://kitchen.juicer.cc/parallel/?color=WTmSvBBdtO8=&amp;url=https%3A%2F%2Ft.livepocket.jp%2Fmyticket%2Fpublish%3Fticket_id%3D34932925%26event_id%3D499482&amp;deviceType=1&amp;sesid=d1409499-9d58-4c57-8f2a-ca6592afa5af&amp;version=2.3.3" async=""></script><iframe src="https://www.google.com/recaptcha/api2/aframe" width="0" height="0" style="display: none;"></iframe><script src="https://kitchen.juicer.cc/function/popup-nps/?color=WTmSvBBdtO8=&amp;ip=220.146.35.64&amp;deviceType=1&amp;url=https%3A%2F%2Ft.livepocket.jp%2Fmyticket%2Fpublish%3Fticket_id%3D34932925%26event_id%3D499482&amp;isShow=0&amp;isAnswer=0&amp;lastAnswerDate=0&amp;version=2.3.3" async=""></script><script src="https://kitchen.juicer.cc/function/popup-ad/?color=WTmSvBBdtO8=&amp;id=98e7acc6-1dae-4bc9-986b-1bd9fe5ff993&amp;jid=srn:smooothieapi:usercard:juicer:0a33f2aa-8e42-4d2c-91b6-7b69c4ba1afa&amp;ip=220.146.35.64&amp;deviceType=1&amp;url=https%3A%2F%2Ft.livepocket.jp%2Fmyticket%2Fpublish%3Fticket_id%3D34932925%26event_id%3D499482&amp;isShow=0&amp;lastShowDate=0&amp;version=2.3.3" async=""></script><div style="display: none;"><img src="https://sync.logly.co.jp/sync/sync.gif?ssp_id=1013&amp;jid=srn:smooothieapi:usercard:juicer:0a33f2aa-8e42-4d2c-91b6-7b69c4ba1afa" id="juicer-collaborate-lg"></div><script src="https://s.dc-tag.jp/lib.min.js" async=""></script><div style="display: none;"><img src="https://pixel.tapad.com/idsync/ex/receive?partner_id=2798&amp;partner_device_id=0a33f2aa-8e42-4d2c-91b6-7b69c4ba1afa"></div><div style="display: none;"><img src="https://sync.im-apps.net/imid/redirect?cid=5756&amp;tid=aid" id="juicer-collaborate-ar1"><img src="https://tg.socdm.com/aux/idsync?proto=ddli" id="juicer-collaborate-ar2"></div><div style="display: none;"><img src="https://panel.interactive-circle.jp/cookiesync?requestType=4&amp;partnerHash=juicer&amp;cookiesyncSendFlg=true&amp;keepFlg=0&amp;partnerCookieId=srn:smooothieapi:usercard:juicer:0a33f2aa-8e42-4d2c-91b6-7b69c4ba1afa&amp;redirectBaseUrlFromClient=https%3A%2F%2Fjuicer-vri.s3-ap-northeast-1.amazonaws.com%2Fpx.gif%3Fu1%3Dsrn%3Asmooothieapi%3Ausercard%3Ajuicer%3A0a33f2aa-8e42-4d2c-91b6-7b69c4ba1afa&amp;redirectVrCookieIdKey=u2&amp;redirectVrCacheBusterKey=r"></div><script src="//cdn.cookie.sync.usonar.jp/live_access/loglyjuicer_track.js" async="" charset="utf-8" type="text/javascript"></script><img src="https://pixel.tapad.com/idsync/ex/receive?partner_id=3151&amp;partner_device_id=9f116279-1aea-45dd-87c6-4ccbd47548fe" height="1" width="1" style="display:none;position:absolute;border:none;padding:0;margin:0;"><script type="text/javascript" id="">
+!function(t,e){if(void 0===e[t]){e[t]=function(){e[t].clients.push(this),this._init=[Array.prototype.slice.call(arguments)]},e[t].clients=[];for(var s=["addRecord","blockEvents","fetchServerCookie","fetchGlobalID","fetchUserSegments","resetUUID","ready","setSignedMode","setAnonymousMode","set","trackEvent","trackPageview","trackClicks","unblockEvents"],c=0;c<s.length;c++){var r=s[c];e[t].prototype[r]=function(t){return function(){return this["_"+t]=this["_"+t]||[],this["_"+t].push(Array.prototype.slice.call(arguments)),this}}(r)}var n=document.createElement("script"),o=(n.type="text/javascript",n.async=!0,n.src=("https:"===document.location.protocol?"https:":"http:")+"//al-s.dc-tag.jp/dcam.min.js",document.getElementsByTagName("script")[0]);o.parentNode.insertBefore(n,o)}}("DCAccessMeasure",this);
+</script>
+
+<script type="text/javascript" id="">
+var CCIDT = window.CCIDT || {};
+
+(function() {
+  function setDCAM() {
+    var getCookie = function(k){
+      try{
+        var cs = document.cookie;
+        if(cs) {
+          var acs = cs.split('; ');
+          for(var i=0;i<acs.length;i++){
+            var cs = acs[i].split('=');
+            if(cs[0] === k){ return cs[1]; }
+          }
+        }
+        return '';
+      }catch(e){return '';}
+    };
+
+    function getmeta(t){
+        try {
+			var l_key = t.toLowerCase();
+			var u_key = t.toUpperCase();
+			var cc_key = t[0].toUpperCase() + t.slice(1).toLowerCase();
+
+			var headChildren = document.head.children || {};
+			var meta_kw_node = headChildren[l_key] || headChildren[u_key] || headChildren[cc_key];
+
+	        var md = "";
+			if(meta_kw_node){md = meta_kw_node.getAttribute('content')};
+
+		}catch(e) {
+			var md = "";
+		}
+        return md;
+    }
+    var dcam = new DCAccessMeasure({
+      host: 'al-a.dc-tag.jp',
+      writeKey: 'UQ4L89D7EN74NSU',
+      database: 'dc_access_log',
+      startInSignedMode: true
+    });
+
+    var dcam_table = 'ex_all';
+
+    dcam.set(dcam_table, 'dcam_global_id', 'dcam_global_id');
+    dcam.set(dcam_table, {
+      dc_uuid: '9f116279-1aea-45dd-87c6-4ccbd47548fe',
+      dc_container_id: '10135',
+      dctm_client_id: getCookie('dc_cl_id'),
+      meta_kw: getmeta('keywords'),
+      custom_data: CCIDT.custom_data_juicer,
+    });
+
+    dcam.trackPageview(dcam_table);
+  }
+
+  setDCAM();
+  
+})();
+</script>
+<script src="//cdn.audiencedata.net/js/v2/pageview.js?owner_id=1000435&amp;site_id=n_2706000000" async=""></script></body><iframe id="google_esf" name="google_esf" src="https://googleads.g.doubleclick.net/pagead/html/r20251009/r20190131/zrt_lookup_fy2021.html" style="display: none;"></iframe></html>
